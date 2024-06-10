@@ -1,0 +1,7 @@
+{% extends "./partials/Layout.peb" %}
+    {% block content %}
+        {% for triangle in model.triangles %}
+         <p>{{ triangle.sideA }}</p>
+{% endfor %}
+    {% endblock %}
+

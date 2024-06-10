@@ -1,0 +1,4 @@
+{% extends "./partials/Layout.peb" %}
+{% block content %}
+    <p>HomePage {{ model.lol }}</p>
+{% endblock %}

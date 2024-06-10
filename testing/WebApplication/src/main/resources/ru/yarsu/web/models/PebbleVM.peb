@@ -1,0 +1,4 @@
+{% extends "./partials/Layout.peb" %}
+{% block content %}
+    <p>PebbleVM {{ model.description }}</p>
+{% endblock %}

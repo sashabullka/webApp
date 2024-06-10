@@ -1,0 +1,10 @@
+    {% extends "layout.peb" %}
+
+        {% block title %} Домашняя страница {% endblock %}
+
+    {% block content %}
+        <div class="p-3 mb-2 bg-primary-subtle text-primary-emphasis"><h1>Благоустройство городов России</h1></div>
+        <div class="p-3 mb-2 bg-light-subtle text-light-emphasis"><h3> На этом сайте вы можете проголосовать за понравившийся вам проект</h3></div>
+
+
+{% endblock %}

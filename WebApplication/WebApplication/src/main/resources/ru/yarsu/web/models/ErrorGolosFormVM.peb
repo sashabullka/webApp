@@ -1,0 +1,29 @@
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+
+<div class="container">
+  <h1 class="text-center mb-4">Добавление Заявки</h1>
+
+  <form method="POST" class="row g-3">
+    <div class="col-md-8 offset-md-2">
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Никнейм на сайте:</label>
+        <input name="newName" type="text" class="form-control" value="{{ model.name }}" id="exampleInputPassword1">
+      </div>
+    </div>
+    <div class="col-12 text-center">
+      <button type="submit" class="btn btn-primary">Отправить</button>
+    </div>
+  </form>
+</div>
+
+{% for error in model.listErrors %}
+<div class="container mt-3">
+    <div class="alert alert-danger" role="alert">
+        <h5>{{ error }}</h5>
+    </div>
+</div>
+{% endfor %}
+
+    {% endblock %}

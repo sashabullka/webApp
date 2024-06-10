@@ -1,0 +1,36 @@
+{# @pebvariable name="model" type="ru.yarsu.web.models.ErrorProectFormVM" #}
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    {% for proect in model.proects %}
+        <a class="navbar-brand" href="/{{ proect.proectID }}/n1">{{ proect.namePunkt }}</a>
+    {% endfor %}
+  </div>
+</nav>
+
+<form method="POST">
+     <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Название проекта</label>
+        <input name="namePunkt" type="text" class="form-control" value="{{ model.nameP }}" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Название улицы</label>
+        <input name="nameTerritory" type="text" class="form-control" value="{{ model.nameT }}" id="exampleInputEmail1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Координаты</label>
+        <input name="coordinates" type="text" class="form-control" value="{{ model.coordinates }}" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Описание</label>
+        <input name="descripton" type="text" class="form-control" value="{{ model.description }}" id="exampleInputPassword1">
+    </div>
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>
+{% for error in model.listErrors %}
+        <h5>{{error}}</h5>
+    {% endfor %}
+{% endblock %}

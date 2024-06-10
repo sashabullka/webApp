@@ -1,0 +1,25 @@
+    {% extends "./partials/Layout.peb" %}
+    {% block content %}
+<div class="container mt-5">
+    <div class="d-flex justify-content-center mb-4">
+        {% if permissions.canAddProect %}
+        <a href="/add" class="btn btn-primary" role="button">Добавить проект</a>
+        {%endif%}
+    </div>
+
+    <div class="card border-primary mb-3">
+        <div class="card-header text-bg-primary">
+            Список проектов
+        </div>
+        <div class="card-body">
+            <div class="list-group">
+                {% for proect in model.proects %}
+                    <a href="/{{ proect.proectID }}/1" class="list-group-item list-group-item-action">
+                        {{ proect.namePunkt }}
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

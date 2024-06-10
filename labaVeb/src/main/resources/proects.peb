@@ -1,0 +1,28 @@
+{% extends "layout.peb" %}
+    {% block navigationHelp %}../{% endblock %}
+
+{% block content %}
+
+    <div class="card border-primary mb-3">
+      <div class="card-header text-bg-primary mb-3">
+        Информация о проекте
+      </div>
+      <div class="card-body text-primary">
+        <ul class="list-group">
+          <li class="list-group-item">Дата публикации проекта: {{ proect.date }}</li>
+          <li class="list-group-item">Название населённого пункта: {{ proect.namePunkt }}</li>
+          <li class="list-group-item">Название улицы: {{ proect.nameTerritory }}</li>
+          <li class="list-group-item">Координаты: {{ proect.coordinates }}</li>
+          <li class="list-group-item">Описание проекта: {{ proect.descripton }}</li>
+        </ul>
+      </div>
+    </div>
+    <ul class="list-group">
+      <li class="list-group-item active" aria-current="true">Список людей поддержавших проект</li>
+      {% for i in proect.people %}
+        <li class="list-group-item">Id пользователя: {{ i.id }}; Дата выражения поддержки:  {{ i.date }}</li>
+      {% endfor %}
+    </ul>
+
+    {% endblock %}
+

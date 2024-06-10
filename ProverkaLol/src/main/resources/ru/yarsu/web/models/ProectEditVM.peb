@@ -1,0 +1,34 @@
+
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+
+    <nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    {% for proect in model.proects %}
+        <a class="navbar-brand" href="/{{ proect.proectID }}/n1">{{ proect.namePunkt }}</a>
+    {% endfor %}
+  </div>
+</nav>
+
+    <h1>Редактирование Проекта</h1>
+<form method="POST">
+     <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Название проекта</label>
+        <input name="namePunkt" type="text" class="form-control" value="{{ model.proect.getNamePunkt() }}" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Название улицы</label>
+        <input name="nameTerritory" type="text" class="form-control" value="{{ model.proect.getNameTerritory() }}" id="exampleInputEmail1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Координаты</label>
+        <input name="coordinates" type="text" class="form-control" value="{{ model.proect.getCoordinates() }}" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Описание</label>
+        <input name="descripton" type="text" class="form-control" value="{{ model.proect.getDescripton() }}" id="exampleInputPassword1">
+    </div>
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>
+{% endblock %}

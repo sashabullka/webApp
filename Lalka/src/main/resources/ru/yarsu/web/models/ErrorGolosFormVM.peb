@@ -1,0 +1,26 @@
+
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    {% for proect in model.proects %}
+        <a class="navbar-brand" href="/{{ proect.proectID }}/n1">{{ proect.namePunkt }}</a>
+    {% endfor %}
+  </div>
+</nav>
+
+<form method="POST">
+     <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Никнейм</label>
+        <input name="newName" type="text" class="form-control" value="{{ model.name }}" id="exampleInputPassword1">
+    </div>
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>
+
+{% for error in model.listErrors %}
+        <h5>{{error}}</h5>
+    {% endfor %}
+
+{% endblock %}

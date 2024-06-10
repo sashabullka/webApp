@@ -1,0 +1,38 @@
+    {% extends "./partials/Layout.peb" %}
+    {% block content %}
+
+<h1 class="text-center mb-4">Подробная информация о заявке</h1>
+
+<div class="card border-primary mb-4">
+  <div class="card-header text-bg-primary">
+    Информация
+  </div>
+  <div class="card-body text-primary">
+    <ul class="list-group">
+      <li class="list-group-item">Дата публикации проекта: {{ model.golos.date | date("yyyy-MM-dd HH:mm") }}</li>
+      <li class="list-group-item">Название населённого пункта: {{ model.golos.people.namePunkt }}</li>
+      <li class="list-group-item">Идентификатор: {{ model.golos.people.id }}</li>
+      <li class="list-group-item">Никнейм: {{ model.golos.nick }}</li>
+      <li class="list-group-item">Голос оставил: {{ model.golos.people.userName }}</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col-md-6">
+    {% if (permissions.canEditGolos and user.nameLog == model.golos.people.username) or user.role == "admin"%}
+    <a href="/{{ model.proect.proectID }}/{{model.page}}/golos/{{ model.golos.people.id }}/edit" class="btn btn-primary w-100 mb-2" role="button">Изменить заявку</a>
+    {%endif%}
+  </div>
+  <div class="col-md-6">
+    {% if (permissions.canDeleteGolos and user.nameLog == model.golos.people.username) or user.role == "admin"%}
+    <a href="/{{ model.proect.proectID }}/{{model.page}}/golos/{{ model.golos.people.id }}/delete" class="btn btn-primary w-100" role="button">Удалить заявку</a>
+    {%endif%}
+  </div>
+</div>
+
+<div class="text-center">
+  <a href="/{{ model.proect.proectID }}/{{ model.page }}" class="btn btn-primary" role="button">Назад</a>
+</div>
+
+{% endblock %}

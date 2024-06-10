@@ -1,0 +1,7081 @@
+[ {
+  "namePunkt" : "Atlanta",
+  "nameTerritory" : "Broadway",
+  "coordinates" : "10°3'45.38\"N 41°14'6.14\"E",
+  "descripton" : "Separate the sidewalks with anti-parking bollards. They are elegant, do not interfere with pedestrians and prevent violators from parking on the sidewalk.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "49056",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-07-21T08:47:00",
+    "nick" : "IPpDFcu"
+  }, {
+    "people" : {
+      "id" : "80082",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-01-21T02:45:00",
+    "nick" : "R547"
+  }, {
+    "people" : {
+      "id" : "88014",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-03-05T14:15:00",
+    "nick" : "E1sTYAp"
+  }, {
+    "people" : {
+      "id" : "30987",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-07-15T12:10:00",
+    "nick" : "A1o1rY"
+  }, {
+    "people" : {
+      "id" : "46579",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-01-22T13:45:00",
+    "nick" : "RFn9Ua"
+  }, {
+    "people" : {
+      "id" : "99588",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-04-08T22:31:00",
+    "nick" : "5QWND"
+  }, {
+    "people" : {
+      "id" : "80877",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-04-18T23:02:00",
+    "nick" : "S3znF"
+  }, {
+    "people" : {
+      "id" : "69758",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-07-02T10:15:00",
+    "nick" : "AgCv7ZF"
+  }, {
+    "people" : {
+      "id" : "25912",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-01-04T14:56:00",
+    "nick" : "K5Bqw"
+  }, {
+    "people" : {
+      "id" : "71233",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-10-31T07:58:00",
+    "nick" : "IsRe"
+  }, {
+    "people" : {
+      "id" : "83333",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-05-22T12:59:00",
+    "nick" : "JA4M"
+  }, {
+    "people" : {
+      "id" : "69340",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-10-03T08:22:00",
+    "nick" : "D1enB"
+  }, {
+    "people" : {
+      "id" : "31850",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-05-04T01:13:00",
+    "nick" : "MDNWs"
+  }, {
+    "people" : {
+      "id" : "22750",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-08-25T01:35:00",
+    "nick" : "ZsyY0bq"
+  }, {
+    "people" : {
+      "id" : "25180",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-01-28T01:28:00",
+    "nick" : "WvvNW"
+  }, {
+    "people" : {
+      "id" : "92144",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-02-09T14:38:00",
+    "nick" : "2TD2e2E"
+  }, {
+    "people" : {
+      "id" : "71854",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-12-30T04:56:00",
+    "nick" : "Pdl3bK6"
+  }, {
+    "people" : {
+      "id" : "17194",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-04-02T18:00:00",
+    "nick" : "NM8rP"
+  }, {
+    "people" : {
+      "id" : "67880",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-01-14T00:30:00",
+    "nick" : "Nr4d"
+  }, {
+    "people" : {
+      "id" : "86072",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-03-12T20:00:00",
+    "nick" : "BsRXaS"
+  }, {
+    "people" : {
+      "id" : "90103",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-07T17:26:00",
+    "nick" : "4Wn6U6"
+  }, {
+    "people" : {
+      "id" : "96568",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-11-18T19:18:00",
+    "nick" : "1SO3GB"
+  }, {
+    "people" : {
+      "id" : "77217",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-05-30T14:45:00",
+    "nick" : "Z26obR"
+  }, {
+    "people" : {
+      "id" : "69490",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-04-03T04:37:00",
+    "nick" : "MhMTxC"
+  }, {
+    "people" : {
+      "id" : "85600",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-04-12T09:28:00",
+    "nick" : "XRc6GpX"
+  }, {
+    "people" : {
+      "id" : "25105",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-12-26T10:48:00",
+    "nick" : "T7cppZ"
+  }, {
+    "people" : {
+      "id" : "52521",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-08-16T22:41:00",
+    "nick" : "Dti3l"
+  }, {
+    "people" : {
+      "id" : "39586",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-10-25T16:37:00",
+    "nick" : "Bs6mn"
+  }, {
+    "people" : {
+      "id" : "51758",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-03-17T23:45:00",
+    "nick" : "FyWEfiG"
+  }, {
+    "people" : {
+      "id" : "32065",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-08T21:02:00",
+    "nick" : "1b9ShnO"
+  }, {
+    "people" : {
+      "id" : "77418",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-11-29T13:17:00",
+    "nick" : "M6T"
+  }, {
+    "people" : {
+      "id" : "61961",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-09-17T22:08:00",
+    "nick" : "V7jWW"
+  }, {
+    "people" : {
+      "id" : "82246",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-10-18T20:58:00",
+    "nick" : "6K8"
+  }, {
+    "people" : {
+      "id" : "68766",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-03-10T22:19:00",
+    "nick" : "VWLA7TQ"
+  }, {
+    "people" : {
+      "id" : "33994",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-06-15T21:44:00",
+    "nick" : "QI0GsMI"
+  }, {
+    "people" : {
+      "id" : "19516",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-12-31T05:32:00",
+    "nick" : "PZk"
+  }, {
+    "people" : {
+      "id" : "70537",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-03-22T21:47:00",
+    "nick" : "3TnHH8"
+  }, {
+    "people" : {
+      "id" : "69845",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-08-03T23:46:00",
+    "nick" : "1YQ"
+  }, {
+    "people" : {
+      "id" : "72328",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-08-04T16:38:00",
+    "nick" : "W2nU"
+  }, {
+    "people" : {
+      "id" : "12117",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-11-16T11:43:00",
+    "nick" : "MNTdF"
+  }, {
+    "people" : {
+      "id" : "62781",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-11-23T22:42:00",
+    "nick" : "Wx6f"
+  }, {
+    "people" : {
+      "id" : "78547",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-05-01T22:49:00",
+    "nick" : "Acc9EEA"
+  }, {
+    "people" : {
+      "id" : "33351",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-08-10T17:39:00",
+    "nick" : "SCM"
+  }, {
+    "people" : {
+      "id" : "83090",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-01-31T06:47:00",
+    "nick" : "KN4"
+  }, {
+    "people" : {
+      "id" : "10028",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-07-07T22:35:00",
+    "nick" : "ViFCYX"
+  }, {
+    "people" : {
+      "id" : "90373",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-12-07T06:36:00",
+    "nick" : "40bWjFS"
+  }, {
+    "people" : {
+      "id" : "47206",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-02-13T02:41:00",
+    "nick" : "EmhtcW"
+  }, {
+    "people" : {
+      "id" : "20843",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-03-06T20:11:00",
+    "nick" : "EoTIBP"
+  }, {
+    "people" : {
+      "id" : "71160",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-05-27T11:50:00",
+    "nick" : "64Su"
+  }, {
+    "people" : {
+      "id" : "78507",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-11-14T14:45:00",
+    "nick" : "IkUxuU"
+  }, {
+    "people" : {
+      "id" : "43975",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-02-08T00:55:00",
+    "nick" : "NsqmFQ"
+  }, {
+    "people" : {
+      "id" : "91139",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-07-05T06:47:00",
+    "nick" : "AKb1"
+  }, {
+    "people" : {
+      "id" : "80813",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-02-19T08:46:00",
+    "nick" : "1wb2w"
+  }, {
+    "people" : {
+      "id" : "67589",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-10-17T16:51:00",
+    "nick" : "539Yrk"
+  }, {
+    "people" : {
+      "id" : "49793",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-11-15T19:32:00",
+    "nick" : "MKOnCJ2"
+  }, {
+    "people" : {
+      "id" : "62090",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-10-03T00:37:00",
+    "nick" : "9XFl9Ve"
+  }, {
+    "people" : {
+      "id" : "90231",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-04-09T12:29:00",
+    "nick" : "WvWp7"
+  }, {
+    "people" : {
+      "id" : "20154",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-08-27T02:56:00",
+    "nick" : "WULGs"
+  }, {
+    "people" : {
+      "id" : "74220",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-03-02T12:38:00",
+    "nick" : "WUQFx"
+  }, {
+    "people" : {
+      "id" : "26853",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-29T22:32:00",
+    "nick" : "RXheqj"
+  }, {
+    "people" : {
+      "id" : "32732",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-29T07:42:00",
+    "nick" : "Sj7"
+  }, {
+    "people" : {
+      "id" : "30711",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-20T13:34:00",
+    "nick" : "MiL"
+  }, {
+    "people" : {
+      "id" : "97548",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-04-09T03:49:00",
+    "nick" : "Y4Oef"
+  }, {
+    "people" : {
+      "id" : "83742",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-01-31T09:38:00",
+    "nick" : "Aqu7YV"
+  }, {
+    "people" : {
+      "id" : "91269",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-12-26T19:28:00",
+    "nick" : "GgdYg"
+  }, {
+    "people" : {
+      "id" : "36401",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-07-28T23:32:00",
+    "nick" : "41M1AU"
+  }, {
+    "people" : {
+      "id" : "96524",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-02-16T07:25:00",
+    "nick" : "1mw"
+  }, {
+    "people" : {
+      "id" : "61074",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-01-07T01:29:00",
+    "nick" : "Kpyj"
+  }, {
+    "people" : {
+      "id" : "88072",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-04-07T22:49:00",
+    "nick" : "ZdpbWy5"
+  }, {
+    "people" : {
+      "id" : "53873",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-09-07T17:58:00",
+    "nick" : "BabkRf"
+  }, {
+    "people" : {
+      "id" : "85585",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-10-15T22:00:00",
+    "nick" : "4LjUC"
+  }, {
+    "people" : {
+      "id" : "19216",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-04-22T14:19:00",
+    "nick" : "VyiyzX"
+  }, {
+    "people" : {
+      "id" : "23585",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-11-06T16:09:00",
+    "nick" : "8ic"
+  }, {
+    "people" : {
+      "id" : "15686",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-12T10:14:00",
+    "nick" : "Gr3s"
+  }, {
+    "people" : {
+      "id" : "22154",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-01-13T20:47:00",
+    "nick" : "KLW5Mw"
+  }, {
+    "people" : {
+      "id" : "76409",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-06-27T13:31:00",
+    "nick" : "Rd2P"
+  }, {
+    "people" : {
+      "id" : "78875",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-04-14T10:10:00",
+    "nick" : "0Wp"
+  }, {
+    "people" : {
+      "id" : "80788",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-08-11T16:13:00",
+    "nick" : "FfV71A"
+  }, {
+    "people" : {
+      "id" : "18631",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-05-13T18:19:00",
+    "nick" : "96VT8S8"
+  }, {
+    "people" : {
+      "id" : "85791",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-10-09T12:11:00",
+    "nick" : "YR5"
+  }, {
+    "people" : {
+      "id" : "34927",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-08-10T04:33:00",
+    "nick" : "IUqc9Gc"
+  }, {
+    "people" : {
+      "id" : "79572",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-02-17T20:41:00",
+    "nick" : "HGSgwV"
+  }, {
+    "people" : {
+      "id" : "34097",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-05-07T17:28:00",
+    "nick" : "V7XT"
+  }, {
+    "people" : {
+      "id" : "88843",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-03-18T02:16:00",
+    "nick" : "MmL"
+  }, {
+    "people" : {
+      "id" : "33880",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-06-26T08:23:00",
+    "nick" : "T2l"
+  }, {
+    "people" : {
+      "id" : "89837",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-03-17T09:51:00",
+    "nick" : "WFBJ"
+  }, {
+    "people" : {
+      "id" : "72131",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-07-12T10:13:00",
+    "nick" : "YM7rGXQ"
+  }, {
+    "people" : {
+      "id" : "33138",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-10-26T08:09:00",
+    "nick" : "ISre"
+  }, {
+    "people" : {
+      "id" : "82625",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-09-10T20:26:00",
+    "nick" : "YVP"
+  }, {
+    "people" : {
+      "id" : "67499",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-06-21T23:38:00",
+    "nick" : "RRu2"
+  }, {
+    "people" : {
+      "id" : "70057",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-08-02T21:43:00",
+    "nick" : "JlBr"
+  }, {
+    "people" : {
+      "id" : "56184",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-01-25T07:01:00",
+    "nick" : "MZpE"
+  }, {
+    "people" : {
+      "id" : "62222",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-12-12T21:16:00",
+    "nick" : "BegmN"
+  }, {
+    "people" : {
+      "id" : "51084",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-09-14T21:06:00",
+    "nick" : "Elg5jqH"
+  }, {
+    "people" : {
+      "id" : "60588",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-06-25T11:30:00",
+    "nick" : "BEPP"
+  }, {
+    "people" : {
+      "id" : "98092",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2023-04-10T20:40:00",
+    "nick" : "E9eA"
+  }, {
+    "people" : {
+      "id" : "60542",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-08-18T19:43:00",
+    "nick" : "Gy9UZq"
+  }, {
+    "people" : {
+      "id" : "38621",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-08-20T20:15:00",
+    "nick" : "FdQSb"
+  }, {
+    "people" : {
+      "id" : "51518",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2024-08-03T01:47:00",
+    "nick" : "4biLt1"
+  }, {
+    "people" : {
+      "id" : "83490",
+      "namePunkt" : "Atlanta"
+    },
+    "date" : "2022-09-02T02:51:00",
+    "nick" : "Of6CXx5"
+  } ],
+  "date" : "2020-04-14T23:13:00",
+  "proectID" : "49056"
+}, {
+  "namePunkt" : "Boston",
+  "nameTerritory" : "96th Street",
+  "coordinates" : "14°46'46.2\"N 3°12'14.22\"E",
+  "descripton" : "Raise the crossings. A crossing at the same level as the sidewalk is convenient; you don’t have to go up or down anywhere. And cars have an additional incentive to brake in time.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "84853",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-08-28T21:19:00",
+    "nick" : "WRY"
+  }, {
+    "people" : {
+      "id" : "98028",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-10-22T04:35:00",
+    "nick" : "QbGBXo"
+  }, {
+    "people" : {
+      "id" : "16803",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-01-29T17:08:00",
+    "nick" : "EmLC3f"
+  }, {
+    "people" : {
+      "id" : "66375",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-11-18T00:32:00",
+    "nick" : "IDT"
+  }, {
+    "people" : {
+      "id" : "16760",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-02-05T19:47:00",
+    "nick" : "M1UNj9"
+  }, {
+    "people" : {
+      "id" : "83400",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-04-24T04:52:00",
+    "nick" : "OyQbI"
+  }, {
+    "people" : {
+      "id" : "14247",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-04-06T22:08:00",
+    "nick" : "MVM"
+  }, {
+    "people" : {
+      "id" : "36354",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-02-03T14:43:00",
+    "nick" : "7k8w7W"
+  }, {
+    "people" : {
+      "id" : "98690",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-01-15T13:17:00",
+    "nick" : "U06zC"
+  }, {
+    "people" : {
+      "id" : "23282",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-07-29T14:53:00",
+    "nick" : "P0dGPS"
+  }, {
+    "people" : {
+      "id" : "64375",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-02-20T11:54:00",
+    "nick" : "ZXBm0"
+  }, {
+    "people" : {
+      "id" : "38637",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-02-12T18:24:00",
+    "nick" : "BNu"
+  }, {
+    "people" : {
+      "id" : "13816",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-12-31T15:22:00",
+    "nick" : "Mt9UR"
+  }, {
+    "people" : {
+      "id" : "98063",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-06-21T21:55:00",
+    "nick" : "X6E"
+  }, {
+    "people" : {
+      "id" : "16834",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2017-06-10T18:56:00",
+    "nick" : "VttX"
+  }, {
+    "people" : {
+      "id" : "20520",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-08-26T00:51:00",
+    "nick" : "RytX"
+  }, {
+    "people" : {
+      "id" : "31893",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-11-03T02:44:00",
+    "nick" : "WBrM"
+  }, {
+    "people" : {
+      "id" : "36955",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-04-04T05:47:00",
+    "nick" : "RHsNd"
+  }, {
+    "people" : {
+      "id" : "61950",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-07-20T20:50:00",
+    "nick" : "3Lq"
+  }, {
+    "people" : {
+      "id" : "93878",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-01-20T17:04:00",
+    "nick" : "YCF"
+  }, {
+    "people" : {
+      "id" : "32163",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-09-08T05:42:00",
+    "nick" : "ZoVzt"
+  }, {
+    "people" : {
+      "id" : "45435",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-02-17T11:02:00",
+    "nick" : "QJNSDj"
+  }, {
+    "people" : {
+      "id" : "60439",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-10-10T05:46:00",
+    "nick" : "K5tog"
+  }, {
+    "people" : {
+      "id" : "99244",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-02-04T23:27:00",
+    "nick" : "UFg"
+  }, {
+    "people" : {
+      "id" : "98505",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2017-12-28T16:51:00",
+    "nick" : "OZi"
+  }, {
+    "people" : {
+      "id" : "21626",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-04-28T02:43:00",
+    "nick" : "XEykrpI"
+  }, {
+    "people" : {
+      "id" : "14854",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-12-04T12:04:00",
+    "nick" : "4pc7z"
+  }, {
+    "people" : {
+      "id" : "38156",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-08-10T04:12:00",
+    "nick" : "DPdV"
+  }, {
+    "people" : {
+      "id" : "48357",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-06-29T05:56:00",
+    "nick" : "ELIg"
+  }, {
+    "people" : {
+      "id" : "57554",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-07-19T23:58:00",
+    "nick" : "UY0l"
+  }, {
+    "people" : {
+      "id" : "37143",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-06-03T22:55:00",
+    "nick" : "KO7J"
+  }, {
+    "people" : {
+      "id" : "42563",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2017-07-11T05:46:00",
+    "nick" : "CqKwf"
+  }, {
+    "people" : {
+      "id" : "91733",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-12-19T00:23:00",
+    "nick" : "KT1lEd"
+  }, {
+    "people" : {
+      "id" : "35295",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-05-06T19:00:00",
+    "nick" : "V83ju"
+  }, {
+    "people" : {
+      "id" : "77649",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-04-16T09:21:00",
+    "nick" : "MWn"
+  }, {
+    "people" : {
+      "id" : "23560",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-08-01T22:06:00",
+    "nick" : "Sdc"
+  }, {
+    "people" : {
+      "id" : "87826",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-07-26T17:41:00",
+    "nick" : "OBU"
+  }, {
+    "people" : {
+      "id" : "42902",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-11-19T02:28:00",
+    "nick" : "L9K"
+  }, {
+    "people" : {
+      "id" : "15165",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-03-27T08:30:00",
+    "nick" : "PhsIK"
+  }, {
+    "people" : {
+      "id" : "66702",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-12-14T23:56:00",
+    "nick" : "2Ts5g"
+  }, {
+    "people" : {
+      "id" : "96373",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-09-27T20:45:00",
+    "nick" : "5hZ"
+  }, {
+    "people" : {
+      "id" : "42170",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-06-07T21:40:00",
+    "nick" : "1WfcDKH"
+  }, {
+    "people" : {
+      "id" : "21742",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-06-18T19:45:00",
+    "nick" : "UgNr"
+  }, {
+    "people" : {
+      "id" : "19437",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-11-21T11:04:00",
+    "nick" : "LcE"
+  }, {
+    "people" : {
+      "id" : "78655",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-04-01T02:36:00",
+    "nick" : "I2u8Sk"
+  }, {
+    "people" : {
+      "id" : "80874",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-02-11T04:42:00",
+    "nick" : "ZtqLEeK"
+  }, {
+    "people" : {
+      "id" : "65065",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-02-13T01:59:00",
+    "nick" : "CFE"
+  }, {
+    "people" : {
+      "id" : "28881",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-07-28T17:43:00",
+    "nick" : "3wcp"
+  }, {
+    "people" : {
+      "id" : "71037",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-06-14T22:39:00",
+    "nick" : "1smJ7T"
+  }, {
+    "people" : {
+      "id" : "37875",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-10-19T07:14:00",
+    "nick" : "L8v1Lac"
+  }, {
+    "people" : {
+      "id" : "93517",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-12-26T12:51:00",
+    "nick" : "VNFy67"
+  }, {
+    "people" : {
+      "id" : "28950",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-11-06T12:17:00",
+    "nick" : "PyWz"
+  }, {
+    "people" : {
+      "id" : "32201",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-03-17T13:30:00",
+    "nick" : "Mms"
+  }, {
+    "people" : {
+      "id" : "29878",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-10-31T23:49:00",
+    "nick" : "0gW"
+  }, {
+    "people" : {
+      "id" : "69894",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-07-29T23:14:00",
+    "nick" : "Wxqx"
+  }, {
+    "people" : {
+      "id" : "18564",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-06-21T03:47:00",
+    "nick" : "Aeb2"
+  }, {
+    "people" : {
+      "id" : "12557",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-04-14T21:01:00",
+    "nick" : "PHx2sn"
+  }, {
+    "people" : {
+      "id" : "96643",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-12-03T01:55:00",
+    "nick" : "Fsfu"
+  }, {
+    "people" : {
+      "id" : "11584",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-08-06T07:47:00",
+    "nick" : "Iht"
+  }, {
+    "people" : {
+      "id" : "84098",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2017-07-14T13:26:00",
+    "nick" : "9Nz1UD4"
+  }, {
+    "people" : {
+      "id" : "10053",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-11-22T17:05:00",
+    "nick" : "KXXop7"
+  }, {
+    "people" : {
+      "id" : "15720",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-01-09T15:54:00",
+    "nick" : "Pyl"
+  }, {
+    "people" : {
+      "id" : "71925",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-08-21T04:12:00",
+    "nick" : "6raiaE"
+  }, {
+    "people" : {
+      "id" : "21902",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-05-28T13:49:00",
+    "nick" : "7H1Tr1a"
+  }, {
+    "people" : {
+      "id" : "77287",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-08-13T20:54:00",
+    "nick" : "2jt"
+  }, {
+    "people" : {
+      "id" : "66410",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-08-27T07:40:00",
+    "nick" : "WPN"
+  }, {
+    "people" : {
+      "id" : "13232",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-06-01T11:40:00",
+    "nick" : "EENWt"
+  }, {
+    "people" : {
+      "id" : "39566",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-07-23T22:24:00",
+    "nick" : "X0UHEj"
+  }, {
+    "people" : {
+      "id" : "78271",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-07-30T05:43:00",
+    "nick" : "ROSJyq"
+  }, {
+    "people" : {
+      "id" : "49913",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-01-14T11:37:00",
+    "nick" : "KjQ8eq"
+  }, {
+    "people" : {
+      "id" : "69655",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-11-16T21:24:00",
+    "nick" : "H3aMedK"
+  }, {
+    "people" : {
+      "id" : "13660",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-10-11T20:48:00",
+    "nick" : "TtZYV"
+  }, {
+    "people" : {
+      "id" : "27609",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-09-26T04:56:00",
+    "nick" : "IXk"
+  }, {
+    "people" : {
+      "id" : "14961",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-08-25T00:04:00",
+    "nick" : "T2iM6H"
+  }, {
+    "people" : {
+      "id" : "62857",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2017-12-07T03:04:00",
+    "nick" : "8kg"
+  }, {
+    "people" : {
+      "id" : "67983",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-06-17T00:16:00",
+    "nick" : "7Y1MrT8"
+  }, {
+    "people" : {
+      "id" : "41281",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-01-30T09:47:00",
+    "nick" : "A88EKbb"
+  }, {
+    "people" : {
+      "id" : "88093",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-03-08T11:04:00",
+    "nick" : "2R0DV4m"
+  }, {
+    "people" : {
+      "id" : "55746",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-10-21T23:25:00",
+    "nick" : "QlUMh"
+  }, {
+    "people" : {
+      "id" : "52640",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-10-18T07:10:00",
+    "nick" : "ToO"
+  }, {
+    "people" : {
+      "id" : "82697",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-07-31T15:40:00",
+    "nick" : "KAiVyM"
+  }, {
+    "people" : {
+      "id" : "43233",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-12-12T21:41:00",
+    "nick" : "HVJP49"
+  }, {
+    "people" : {
+      "id" : "39691",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-12-30T16:31:00",
+    "nick" : "QNOzMw"
+  }, {
+    "people" : {
+      "id" : "64487",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-05-03T23:06:00",
+    "nick" : "YlFTc"
+  }, {
+    "people" : {
+      "id" : "94011",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-06-11T11:53:00",
+    "nick" : "QVeYJ"
+  }, {
+    "people" : {
+      "id" : "83916",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-05-06T03:11:00",
+    "nick" : "VJg7id"
+  }, {
+    "people" : {
+      "id" : "90140",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-11-23T17:23:00",
+    "nick" : "34U4ee"
+  }, {
+    "people" : {
+      "id" : "30041",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2022-10-23T15:53:00",
+    "nick" : "YgHn0A"
+  }, {
+    "people" : {
+      "id" : "47679",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-03-19T16:21:00",
+    "nick" : "XqJz68"
+  }, {
+    "people" : {
+      "id" : "26262",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-11-02T07:05:00",
+    "nick" : "3fZ"
+  }, {
+    "people" : {
+      "id" : "44008",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2019-02-19T09:21:00",
+    "nick" : "N6OwrS5"
+  }, {
+    "people" : {
+      "id" : "41675",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-09-29T17:59:00",
+    "nick" : "R4R"
+  }, {
+    "people" : {
+      "id" : "44299",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2023-05-27T02:10:00",
+    "nick" : "3hr"
+  }, {
+    "people" : {
+      "id" : "82169",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-12-08T10:21:00",
+    "nick" : "YbYLedg"
+  }, {
+    "people" : {
+      "id" : "96623",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2021-10-28T16:47:00",
+    "nick" : "U1ZvISU"
+  }, {
+    "people" : {
+      "id" : "75384",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2024-05-26T18:38:00",
+    "nick" : "Afblvr"
+  }, {
+    "people" : {
+      "id" : "33983",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-11-28T11:38:00",
+    "nick" : "DLEYac"
+  }, {
+    "people" : {
+      "id" : "95177",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-11-02T21:14:00",
+    "nick" : "Qf2b"
+  }, {
+    "people" : {
+      "id" : "34899",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2018-12-27T06:52:00",
+    "nick" : "7E7"
+  }, {
+    "people" : {
+      "id" : "16924",
+      "namePunkt" : "Boston"
+    },
+    "date" : "2020-02-03T13:17:00",
+    "nick" : "2VPukfh"
+  } ],
+  "date" : "2015-05-10T19:07:00",
+  "proectID" : "80082"
+}, {
+  "namePunkt" : "Chicago",
+  "nameTerritory" : "59th Street",
+  "coordinates" : "7°6'4.14\"N 24°37'14.29\"E",
+  "descripton" : "Point the lights at pedestrians. In Moscow, the lights are often directed only at the roadway, and the sidewalks are not illuminated at all. To prevent pedestrians from walking in the dark, it is customary all over the world to install special lights that illuminate sidewalks and pedestrian paths.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "81687",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-04-13T10:52:00",
+    "nick" : "YzwaU2"
+  }, {
+    "people" : {
+      "id" : "60008",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-12-01T18:47:00",
+    "nick" : "RjoZGaV"
+  }, {
+    "people" : {
+      "id" : "46671",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-10-07T01:36:00",
+    "nick" : "TNZAnnE"
+  }, {
+    "people" : {
+      "id" : "27499",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-04-28T01:05:00",
+    "nick" : "MpXsnY"
+  }, {
+    "people" : {
+      "id" : "77835",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-08-29T12:28:00",
+    "nick" : "7Kr"
+  }, {
+    "people" : {
+      "id" : "93293",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-01-02T16:07:00",
+    "nick" : "OWgcV"
+  }, {
+    "people" : {
+      "id" : "71367",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-07-04T08:19:00",
+    "nick" : "Zst9yc"
+  }, {
+    "people" : {
+      "id" : "13147",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-07-29T21:19:00",
+    "nick" : "Sqv"
+  }, {
+    "people" : {
+      "id" : "47476",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-01-29T07:25:00",
+    "nick" : "4Ov44K"
+  }, {
+    "people" : {
+      "id" : "61287",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-05-21T15:24:00",
+    "nick" : "7UDSs"
+  }, {
+    "people" : {
+      "id" : "67163",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-11-13T15:46:00",
+    "nick" : "N86w7"
+  }, {
+    "people" : {
+      "id" : "80921",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-03-29T19:58:00",
+    "nick" : "8ooX3PQ"
+  }, {
+    "people" : {
+      "id" : "75583",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-04-11T23:33:00",
+    "nick" : "BT4"
+  }, {
+    "people" : {
+      "id" : "38346",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-06-23T11:33:00",
+    "nick" : "J05o"
+  }, {
+    "people" : {
+      "id" : "34502",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-03-12T10:56:00",
+    "nick" : "NON"
+  }, {
+    "people" : {
+      "id" : "43518",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-06-30T12:40:00",
+    "nick" : "EHI"
+  }, {
+    "people" : {
+      "id" : "66813",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-12-01T03:59:00",
+    "nick" : "Wvd"
+  }, {
+    "people" : {
+      "id" : "93715",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-09-05T21:14:00",
+    "nick" : "WWIB0"
+  }, {
+    "people" : {
+      "id" : "74379",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-04-15T11:15:00",
+    "nick" : "Ll4"
+  }, {
+    "people" : {
+      "id" : "53620",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-10-17T15:46:00",
+    "nick" : "0qz"
+  }, {
+    "people" : {
+      "id" : "17909",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-03-15T21:51:00",
+    "nick" : "1x9axF"
+  }, {
+    "people" : {
+      "id" : "14328",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-11-04T21:23:00",
+    "nick" : "X6xbwn7"
+  }, {
+    "people" : {
+      "id" : "49135",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-11-18T15:19:00",
+    "nick" : "341U"
+  }, {
+    "people" : {
+      "id" : "88023",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-09-11T00:51:00",
+    "nick" : "TCGwe"
+  }, {
+    "people" : {
+      "id" : "61188",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-04-05T08:44:00",
+    "nick" : "Wga7dW"
+  }, {
+    "people" : {
+      "id" : "14839",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-08-20T15:07:00",
+    "nick" : "WDgmIYs"
+  }, {
+    "people" : {
+      "id" : "38262",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-07-20T14:24:00",
+    "nick" : "X4e"
+  }, {
+    "people" : {
+      "id" : "39197",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-05-29T13:43:00",
+    "nick" : "RDs"
+  }, {
+    "people" : {
+      "id" : "72214",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-05-20T23:08:00",
+    "nick" : "KBH5Pr"
+  }, {
+    "people" : {
+      "id" : "53877",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-06-29T22:37:00",
+    "nick" : "KMYZ"
+  }, {
+    "people" : {
+      "id" : "30224",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-06-07T14:05:00",
+    "nick" : "0qpmJZU"
+  }, {
+    "people" : {
+      "id" : "51405",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-12-27T01:47:00",
+    "nick" : "DnNvPt"
+  }, {
+    "people" : {
+      "id" : "37495",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-10-14T13:29:00",
+    "nick" : "RgdWx"
+  }, {
+    "people" : {
+      "id" : "46993",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-12-26T15:03:00",
+    "nick" : "AxUJ8u"
+  }, {
+    "people" : {
+      "id" : "48430",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-06-09T20:46:00",
+    "nick" : "5YERs"
+  }, {
+    "people" : {
+      "id" : "11722",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-10-10T04:55:00",
+    "nick" : "9dHlEcV"
+  }, {
+    "people" : {
+      "id" : "77885",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-04-24T02:02:00",
+    "nick" : "N3hBf"
+  }, {
+    "people" : {
+      "id" : "27572",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-06-02T07:10:00",
+    "nick" : "Vw2UX"
+  }, {
+    "people" : {
+      "id" : "58778",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-06-03T16:42:00",
+    "nick" : "Dsq"
+  }, {
+    "people" : {
+      "id" : "41520",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-06-10T03:50:00",
+    "nick" : "J5gu6mM"
+  }, {
+    "people" : {
+      "id" : "66067",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-09-24T09:42:00",
+    "nick" : "AKuHpH"
+  }, {
+    "people" : {
+      "id" : "46768",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-07-05T00:22:00",
+    "nick" : "WMbB"
+  }, {
+    "people" : {
+      "id" : "64241",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-03-24T17:52:00",
+    "nick" : "Y6Ce"
+  }, {
+    "people" : {
+      "id" : "47736",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-01-10T22:59:00",
+    "nick" : "75L6"
+  }, {
+    "people" : {
+      "id" : "36730",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-01-18T01:51:00",
+    "nick" : "AgC9e"
+  }, {
+    "people" : {
+      "id" : "27140",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-10-22T04:57:00",
+    "nick" : "A7NNkGv"
+  }, {
+    "people" : {
+      "id" : "82910",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-09-15T22:41:00",
+    "nick" : "8nCpV8"
+  }, {
+    "people" : {
+      "id" : "55869",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-09-01T09:10:00",
+    "nick" : "33RsL"
+  }, {
+    "people" : {
+      "id" : "71657",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-10-23T11:24:00",
+    "nick" : "2jpAUiv"
+  }, {
+    "people" : {
+      "id" : "61503",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-10-04T19:44:00",
+    "nick" : "SRUTs"
+  }, {
+    "people" : {
+      "id" : "58001",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-03-20T02:15:00",
+    "nick" : "BnkzWZT"
+  }, {
+    "people" : {
+      "id" : "48866",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-10-31T12:17:00",
+    "nick" : "EYr"
+  }, {
+    "people" : {
+      "id" : "23540",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-02-13T05:45:00",
+    "nick" : "6SfWfQ9"
+  }, {
+    "people" : {
+      "id" : "19059",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-07-01T06:36:00",
+    "nick" : "WyE6e"
+  }, {
+    "people" : {
+      "id" : "73729",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-10-15T10:20:00",
+    "nick" : "Gx29Xly"
+  }, {
+    "people" : {
+      "id" : "82140",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-05-04T20:43:00",
+    "nick" : "D9jsU"
+  }, {
+    "people" : {
+      "id" : "61712",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-03-13T15:03:00",
+    "nick" : "4r0dbEu"
+  }, {
+    "people" : {
+      "id" : "37053",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-05-12T22:53:00",
+    "nick" : "6wAkY"
+  }, {
+    "people" : {
+      "id" : "51986",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-01-24T10:59:00",
+    "nick" : "OMA4Oz"
+  }, {
+    "people" : {
+      "id" : "22679",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-02-20T14:20:00",
+    "nick" : "N6BaOc"
+  }, {
+    "people" : {
+      "id" : "26496",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-07-20T17:22:00",
+    "nick" : "26qA"
+  }, {
+    "people" : {
+      "id" : "92918",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-09-13T11:22:00",
+    "nick" : "NPcijA"
+  }, {
+    "people" : {
+      "id" : "25960",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-11-01T20:42:00",
+    "nick" : "QDu"
+  }, {
+    "people" : {
+      "id" : "99454",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-08-06T01:10:00",
+    "nick" : "38zR"
+  }, {
+    "people" : {
+      "id" : "17195",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-05-14T22:25:00",
+    "nick" : "XVZp"
+  }, {
+    "people" : {
+      "id" : "15790",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-02-13T09:44:00",
+    "nick" : "Tw2X"
+  }, {
+    "people" : {
+      "id" : "43453",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-04-17T03:59:00",
+    "nick" : "7tN"
+  }, {
+    "people" : {
+      "id" : "26655",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-03-13T14:25:00",
+    "nick" : "Q1Se"
+  }, {
+    "people" : {
+      "id" : "39646",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-06-24T09:16:00",
+    "nick" : "NSY"
+  }, {
+    "people" : {
+      "id" : "36724",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-05-14T21:11:00",
+    "nick" : "DYHYo1"
+  }, {
+    "people" : {
+      "id" : "26317",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-09-13T03:55:00",
+    "nick" : "E3g6"
+  }, {
+    "people" : {
+      "id" : "82514",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-11-22T00:21:00",
+    "nick" : "4YBcCW"
+  }, {
+    "people" : {
+      "id" : "48831",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-12-26T16:34:00",
+    "nick" : "OgIuI"
+  }, {
+    "people" : {
+      "id" : "69494",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-07-26T20:56:00",
+    "nick" : "SufIBO"
+  }, {
+    "people" : {
+      "id" : "13016",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-07-18T13:47:00",
+    "nick" : "Mix5"
+  }, {
+    "people" : {
+      "id" : "13833",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-09-06T19:35:00",
+    "nick" : "JST"
+  }, {
+    "people" : {
+      "id" : "79782",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-01-12T09:48:00",
+    "nick" : "7CfQY"
+  }, {
+    "people" : {
+      "id" : "79571",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-06-30T03:32:00",
+    "nick" : "FyyZ6Sb"
+  }, {
+    "people" : {
+      "id" : "46407",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-12-05T04:49:00",
+    "nick" : "2CGk"
+  }, {
+    "people" : {
+      "id" : "79564",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-01-28T00:42:00",
+    "nick" : "8iXBj1p"
+  }, {
+    "people" : {
+      "id" : "84635",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-10-09T05:25:00",
+    "nick" : "5jRvv"
+  }, {
+    "people" : {
+      "id" : "80344",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-08-16T11:42:00",
+    "nick" : "9F0si9B"
+  }, {
+    "people" : {
+      "id" : "80554",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-08-13T01:54:00",
+    "nick" : "QteMnvX"
+  }, {
+    "people" : {
+      "id" : "36233",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-08-11T10:50:00",
+    "nick" : "G4sh1"
+  }, {
+    "people" : {
+      "id" : "93915",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-11-18T05:57:00",
+    "nick" : "62CRaO"
+  }, {
+    "people" : {
+      "id" : "72963",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-07-18T04:27:00",
+    "nick" : "UWlv"
+  }, {
+    "people" : {
+      "id" : "50552",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-10-21T08:48:00",
+    "nick" : "GDeepxJ"
+  }, {
+    "people" : {
+      "id" : "79610",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-08-04T22:40:00",
+    "nick" : "4rUvy"
+  }, {
+    "people" : {
+      "id" : "11119",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-12-03T13:08:00",
+    "nick" : "GwsgBY6"
+  }, {
+    "people" : {
+      "id" : "22877",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-10-15T05:06:00",
+    "nick" : "4P7bDZj"
+  }, {
+    "people" : {
+      "id" : "99475",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-09-25T14:03:00",
+    "nick" : "MpyrRMq"
+  }, {
+    "people" : {
+      "id" : "89927",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-09-20T05:39:00",
+    "nick" : "VxSh"
+  }, {
+    "people" : {
+      "id" : "18207",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-12-16T23:43:00",
+    "nick" : "WhPzU"
+  }, {
+    "people" : {
+      "id" : "63277",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2024-04-01T18:04:00",
+    "nick" : "Q4reL0"
+  }, {
+    "people" : {
+      "id" : "85702",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-02-01T20:06:00",
+    "nick" : "SpgcMt"
+  }, {
+    "people" : {
+      "id" : "90668",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2022-12-31T04:03:00",
+    "nick" : "NCkmT"
+  }, {
+    "people" : {
+      "id" : "17198",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-10-30T14:52:00",
+    "nick" : "QUoc"
+  }, {
+    "people" : {
+      "id" : "78878",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-12-19T10:02:00",
+    "nick" : "Fjqd"
+  }, {
+    "people" : {
+      "id" : "71827",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2023-03-22T22:27:00",
+    "nick" : "T0dzjwf"
+  }, {
+    "people" : {
+      "id" : "61429",
+      "namePunkt" : "Chicago"
+    },
+    "date" : "2021-11-21T05:45:00",
+    "nick" : "Y0B"
+  } ],
+  "date" : "2019-04-14T21:11:00",
+  "proectID" : "88014"
+}, {
+  "namePunkt" : "Dallas",
+  "nameTerritory" : "Madison Avenue",
+  "coordinates" : "48°17'38.32\"N 11°32'4.18\"E",
+  "descripton" : "Lay paths along natural routes. That is, along the shortest routes. If this is not done, then pedestrians will still build paths and walk through holes in fences",
+  "golosa" : [ {
+    "people" : {
+      "id" : "17054",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-08-19T00:10:00",
+    "nick" : "GJm9jXn"
+  }, {
+    "people" : {
+      "id" : "90837",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-05-02T18:02:00",
+    "nick" : "Y5zZ"
+  }, {
+    "people" : {
+      "id" : "63337",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-04-14T21:48:00",
+    "nick" : "FuL5"
+  }, {
+    "people" : {
+      "id" : "80605",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-02-27T12:01:00",
+    "nick" : "JUj"
+  }, {
+    "people" : {
+      "id" : "11782",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-10-06T19:18:00",
+    "nick" : "YLg4M"
+  }, {
+    "people" : {
+      "id" : "69556",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-08-07T07:08:00",
+    "nick" : "XFBb"
+  }, {
+    "people" : {
+      "id" : "65766",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-11-21T05:40:00",
+    "nick" : "ZCp"
+  }, {
+    "people" : {
+      "id" : "40364",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-08-22T03:08:00",
+    "nick" : "H2IrqS"
+  }, {
+    "people" : {
+      "id" : "23866",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-12-17T11:25:00",
+    "nick" : "3qotOt"
+  }, {
+    "people" : {
+      "id" : "17089",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-03-16T16:32:00",
+    "nick" : "Fuu"
+  }, {
+    "people" : {
+      "id" : "98348",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-08-29T12:19:00",
+    "nick" : "XiVtOY"
+  }, {
+    "people" : {
+      "id" : "21728",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-07-22T15:58:00",
+    "nick" : "Acz"
+  }, {
+    "people" : {
+      "id" : "90752",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-01-24T07:48:00",
+    "nick" : "GL4"
+  }, {
+    "people" : {
+      "id" : "34267",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-05-24T15:29:00",
+    "nick" : "Gnz"
+  }, {
+    "people" : {
+      "id" : "68344",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-12-19T20:17:00",
+    "nick" : "59bM"
+  }, {
+    "people" : {
+      "id" : "81065",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-05-12T13:32:00",
+    "nick" : "Zhn"
+  }, {
+    "people" : {
+      "id" : "35604",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-03-09T00:26:00",
+    "nick" : "YKu"
+  }, {
+    "people" : {
+      "id" : "50338",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-01-04T01:33:00",
+    "nick" : "3O7kJ"
+  }, {
+    "people" : {
+      "id" : "85832",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-02-22T11:50:00",
+    "nick" : "Ry6LFH"
+  }, {
+    "people" : {
+      "id" : "85564",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-03-28T16:23:00",
+    "nick" : "JjAR"
+  }, {
+    "people" : {
+      "id" : "58078",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-12-04T03:04:00",
+    "nick" : "5triy"
+  }, {
+    "people" : {
+      "id" : "71774",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-02-01T03:32:00",
+    "nick" : "RfT2jBi"
+  }, {
+    "people" : {
+      "id" : "29608",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-11-15T14:37:00",
+    "nick" : "ZS2w"
+  }, {
+    "people" : {
+      "id" : "14523",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-05T00:19:00",
+    "nick" : "Yae"
+  }, {
+    "people" : {
+      "id" : "61202",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-04-24T20:33:00",
+    "nick" : "Jzrxm"
+  }, {
+    "people" : {
+      "id" : "94614",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-10-05T16:29:00",
+    "nick" : "4HXbDP"
+  }, {
+    "people" : {
+      "id" : "63241",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-06-10T17:18:00",
+    "nick" : "URlEpEe"
+  }, {
+    "people" : {
+      "id" : "92668",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-08-22T03:14:00",
+    "nick" : "IYm"
+  }, {
+    "people" : {
+      "id" : "69593",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-06-28T12:49:00",
+    "nick" : "LKgS"
+  }, {
+    "people" : {
+      "id" : "13011",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-02-07T20:36:00",
+    "nick" : "OXceob"
+  }, {
+    "people" : {
+      "id" : "96236",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-07-24T13:28:00",
+    "nick" : "VIG"
+  }, {
+    "people" : {
+      "id" : "86208",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-02-06T17:09:00",
+    "nick" : "VLD"
+  }, {
+    "people" : {
+      "id" : "98888",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-08-11T07:13:00",
+    "nick" : "QZ8sWz"
+  }, {
+    "people" : {
+      "id" : "96688",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-01-21T06:18:00",
+    "nick" : "P27"
+  }, {
+    "people" : {
+      "id" : "31082",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-02-28T19:31:00",
+    "nick" : "1YZY"
+  }, {
+    "people" : {
+      "id" : "90085",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-03-03T01:29:00",
+    "nick" : "9GBOBa"
+  }, {
+    "people" : {
+      "id" : "55129",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-03-19T06:59:00",
+    "nick" : "AWeD"
+  }, {
+    "people" : {
+      "id" : "55071",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-08-08T04:59:00",
+    "nick" : "MrM"
+  }, {
+    "people" : {
+      "id" : "54685",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-05-30T07:04:00",
+    "nick" : "LxTk"
+  }, {
+    "people" : {
+      "id" : "52894",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-10-05T02:14:00",
+    "nick" : "Xwz5jQ"
+  }, {
+    "people" : {
+      "id" : "79971",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-11-26T14:06:00",
+    "nick" : "DEPwrP"
+  }, {
+    "people" : {
+      "id" : "58743",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-03-21T13:21:00",
+    "nick" : "0uGs63G"
+  }, {
+    "people" : {
+      "id" : "63489",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-09-10T15:43:00",
+    "nick" : "DtZ"
+  }, {
+    "people" : {
+      "id" : "87523",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-12-30T08:41:00",
+    "nick" : "ZvG8"
+  }, {
+    "people" : {
+      "id" : "22460",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-05-21T11:28:00",
+    "nick" : "697"
+  }, {
+    "people" : {
+      "id" : "48718",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-04-20T01:40:00",
+    "nick" : "TfcCuD2"
+  }, {
+    "people" : {
+      "id" : "25054",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-02-01T21:34:00",
+    "nick" : "SPw"
+  }, {
+    "people" : {
+      "id" : "20217",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-04-11T23:07:00",
+    "nick" : "KgvR"
+  }, {
+    "people" : {
+      "id" : "15124",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-08-23T00:49:00",
+    "nick" : "REqU"
+  }, {
+    "people" : {
+      "id" : "69725",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-25T12:35:00",
+    "nick" : "PBt"
+  }, {
+    "people" : {
+      "id" : "28811",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-07-29T01:14:00",
+    "nick" : "X3y"
+  }, {
+    "people" : {
+      "id" : "56950",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-12-17T13:47:00",
+    "nick" : "5fEx"
+  }, {
+    "people" : {
+      "id" : "48495",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-06-30T19:38:00",
+    "nick" : "LH1eA"
+  }, {
+    "people" : {
+      "id" : "14943",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-09-27T12:34:00",
+    "nick" : "C17JJrL"
+  }, {
+    "people" : {
+      "id" : "49579",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-06-01T07:26:00",
+    "nick" : "Vf4"
+  }, {
+    "people" : {
+      "id" : "36903",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-04-20T17:54:00",
+    "nick" : "CyHT72F"
+  }, {
+    "people" : {
+      "id" : "15468",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-09-29T00:55:00",
+    "nick" : "FuylU"
+  }, {
+    "people" : {
+      "id" : "23437",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-03-23T04:27:00",
+    "nick" : "2Riu6yz"
+  }, {
+    "people" : {
+      "id" : "38760",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-07-22T01:34:00",
+    "nick" : "CsreOT6"
+  }, {
+    "people" : {
+      "id" : "48343",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-07-13T11:54:00",
+    "nick" : "4uyOgM"
+  }, {
+    "people" : {
+      "id" : "82417",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-04-23T20:13:00",
+    "nick" : "NDcQjZ"
+  }, {
+    "people" : {
+      "id" : "11759",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-05-18T20:13:00",
+    "nick" : "Wz02X3"
+  }, {
+    "people" : {
+      "id" : "94969",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-06-04T17:42:00",
+    "nick" : "9Atl"
+  }, {
+    "people" : {
+      "id" : "90479",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-09-13T17:12:00",
+    "nick" : "8OS"
+  }, {
+    "people" : {
+      "id" : "13997",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-04-11T03:28:00",
+    "nick" : "T1p4I"
+  }, {
+    "people" : {
+      "id" : "57295",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-07-08T20:10:00",
+    "nick" : "HOK3p"
+  }, {
+    "people" : {
+      "id" : "34662",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-05-11T10:23:00",
+    "nick" : "ZOji"
+  }, {
+    "people" : {
+      "id" : "61490",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-08-08T05:16:00",
+    "nick" : "Z0odQD"
+  }, {
+    "people" : {
+      "id" : "51683",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-06-10T12:35:00",
+    "nick" : "YUYE"
+  }, {
+    "people" : {
+      "id" : "19060",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-03-26T00:07:00",
+    "nick" : "NNeJ"
+  }, {
+    "people" : {
+      "id" : "33805",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-01-02T23:35:00",
+    "nick" : "QTqC3G"
+  }, {
+    "people" : {
+      "id" : "15711",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-03-04T05:21:00",
+    "nick" : "09OtNX"
+  }, {
+    "people" : {
+      "id" : "18249",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-06-28T05:25:00",
+    "nick" : "YfGkeO"
+  }, {
+    "people" : {
+      "id" : "85060",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-03-18T22:09:00",
+    "nick" : "ZI5Cj3"
+  }, {
+    "people" : {
+      "id" : "70890",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-02-17T10:49:00",
+    "nick" : "6VXifir"
+  }, {
+    "people" : {
+      "id" : "26959",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-11-17T08:21:00",
+    "nick" : "JccrHlh"
+  }, {
+    "people" : {
+      "id" : "25330",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-10T07:33:00",
+    "nick" : "PXIFybP"
+  }, {
+    "people" : {
+      "id" : "68303",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-09-10T20:20:00",
+    "nick" : "JZJhGm"
+  }, {
+    "people" : {
+      "id" : "40599",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-04-11T13:37:00",
+    "nick" : "Dx5drQ"
+  }, {
+    "people" : {
+      "id" : "40163",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-03-11T01:07:00",
+    "nick" : "GWzzpC"
+  }, {
+    "people" : {
+      "id" : "91977",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-31T04:21:00",
+    "nick" : "WNmeQ2V"
+  }, {
+    "people" : {
+      "id" : "37305",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-02-07T15:13:00",
+    "nick" : "K3s"
+  }, {
+    "people" : {
+      "id" : "81969",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-04-02T07:40:00",
+    "nick" : "F9N"
+  }, {
+    "people" : {
+      "id" : "49091",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2022-12-11T05:31:00",
+    "nick" : "LjpFHD"
+  }, {
+    "people" : {
+      "id" : "59001",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-01-16T02:56:00",
+    "nick" : "0mBxlRN"
+  }, {
+    "people" : {
+      "id" : "75155",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-11-25T05:44:00",
+    "nick" : "IaevxiZ"
+  }, {
+    "people" : {
+      "id" : "98132",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-05-12T14:35:00",
+    "nick" : "AFk23ob"
+  }, {
+    "people" : {
+      "id" : "12180",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-02-28T03:01:00",
+    "nick" : "K9a3Sa"
+  }, {
+    "people" : {
+      "id" : "57087",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-02-20T07:32:00",
+    "nick" : "Rdc"
+  }, {
+    "people" : {
+      "id" : "65560",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-02-15T02:21:00",
+    "nick" : "08t"
+  }, {
+    "people" : {
+      "id" : "61410",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-07T09:41:00",
+    "nick" : "ECm"
+  }, {
+    "people" : {
+      "id" : "19686",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-12-25T18:22:00",
+    "nick" : "6KH"
+  }, {
+    "people" : {
+      "id" : "30305",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-10-06T14:04:00",
+    "nick" : "OpAq"
+  }, {
+    "people" : {
+      "id" : "19464",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-09T01:38:00",
+    "nick" : "EDYW2dc"
+  }, {
+    "people" : {
+      "id" : "83196",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-01-05T13:31:00",
+    "nick" : "NUC8"
+  }, {
+    "people" : {
+      "id" : "66024",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-07-04T03:30:00",
+    "nick" : "OWI5O"
+  }, {
+    "people" : {
+      "id" : "90660",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-10-10T05:23:00",
+    "nick" : "ZnJ9"
+  }, {
+    "people" : {
+      "id" : "25549",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2023-12-16T14:08:00",
+    "nick" : "XLpD8u"
+  }, {
+    "people" : {
+      "id" : "46068",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-05-09T07:12:00",
+    "nick" : "UUe"
+  }, {
+    "people" : {
+      "id" : "11636",
+      "namePunkt" : "Dallas"
+    },
+    "date" : "2024-10-21T08:39:00",
+    "nick" : "NKxZXl"
+  } ],
+  "date" : "2020-02-11T23:08:00",
+  "proectID" : "30987"
+}, {
+  "namePunkt" : "Detroit",
+  "nameTerritory" : "Wall Street",
+  "coordinates" : "12°38'46.25\"N 2°26'46.29\"E",
+  "descripton" : "Wide the sidewalks. Narrow sidewalks are terribly inconvenient. We need to make 2.5 meters the minimum acceptable width of sidewalks.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "99124",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-12-18T12:20:00",
+    "nick" : "KPo"
+  }, {
+    "people" : {
+      "id" : "16665",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-03-30T06:07:00",
+    "nick" : "Mrdy"
+  }, {
+    "people" : {
+      "id" : "55905",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-08-13T01:49:00",
+    "nick" : "Mxmf6K"
+  }, {
+    "people" : {
+      "id" : "20034",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-09-20T11:47:00",
+    "nick" : "9dsYtL"
+  }, {
+    "people" : {
+      "id" : "62875",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-10-29T13:04:00",
+    "nick" : "6g5FQ"
+  }, {
+    "people" : {
+      "id" : "64698",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-04-10T21:57:00",
+    "nick" : "K0hzU"
+  }, {
+    "people" : {
+      "id" : "37203",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-19T14:42:00",
+    "nick" : "FZmsp"
+  }, {
+    "people" : {
+      "id" : "68239",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-01-07T01:07:00",
+    "nick" : "PXX2flr"
+  }, {
+    "people" : {
+      "id" : "37438",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-06-08T21:29:00",
+    "nick" : "MBAIJ"
+  }, {
+    "people" : {
+      "id" : "27050",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-03-07T17:32:00",
+    "nick" : "H7dei"
+  }, {
+    "people" : {
+      "id" : "41698",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-02-01T12:21:00",
+    "nick" : "Qqp"
+  }, {
+    "people" : {
+      "id" : "92052",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-02-27T06:53:00",
+    "nick" : "HIbB"
+  }, {
+    "people" : {
+      "id" : "81514",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-12-31T04:08:00",
+    "nick" : "WLQ"
+  }, {
+    "people" : {
+      "id" : "97905",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-11-30T12:35:00",
+    "nick" : "2NvXU"
+  }, {
+    "people" : {
+      "id" : "32013",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-07-18T16:47:00",
+    "nick" : "PTqgoxX"
+  }, {
+    "people" : {
+      "id" : "92190",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-01-26T18:20:00",
+    "nick" : "RKb"
+  }, {
+    "people" : {
+      "id" : "66806",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-03-04T20:30:00",
+    "nick" : "FCPlH"
+  }, {
+    "people" : {
+      "id" : "25288",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-08-06T06:44:00",
+    "nick" : "NBw"
+  }, {
+    "people" : {
+      "id" : "31644",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-11-01T23:18:00",
+    "nick" : "UGw"
+  }, {
+    "people" : {
+      "id" : "85796",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-22T04:24:00",
+    "nick" : "KZio"
+  }, {
+    "people" : {
+      "id" : "84122",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-03-15T12:17:00",
+    "nick" : "Iif"
+  }, {
+    "people" : {
+      "id" : "80025",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-04-22T14:11:00",
+    "nick" : "W7cdWC"
+  }, {
+    "people" : {
+      "id" : "97741",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-06-02T07:32:00",
+    "nick" : "M8iLBwq"
+  }, {
+    "people" : {
+      "id" : "86205",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-01-05T22:18:00",
+    "nick" : "MbgmDe5"
+  }, {
+    "people" : {
+      "id" : "86082",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-03-29T17:06:00",
+    "nick" : "Zhc8ka"
+  }, {
+    "people" : {
+      "id" : "66514",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-01-10T08:17:00",
+    "nick" : "2lg"
+  }, {
+    "people" : {
+      "id" : "57845",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-03-14T19:59:00",
+    "nick" : "T362f"
+  }, {
+    "people" : {
+      "id" : "56970",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-11-16T21:05:00",
+    "nick" : "XWj"
+  }, {
+    "people" : {
+      "id" : "16844",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-02-08T02:20:00",
+    "nick" : "E7i5"
+  }, {
+    "people" : {
+      "id" : "61563",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-09-22T04:36:00",
+    "nick" : "7XMx"
+  }, {
+    "people" : {
+      "id" : "79833",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-02-05T23:00:00",
+    "nick" : "NZK"
+  }, {
+    "people" : {
+      "id" : "89853",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-03-31T02:06:00",
+    "nick" : "Ionv"
+  }, {
+    "people" : {
+      "id" : "97143",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-05-24T06:01:00",
+    "nick" : "HCgVW4"
+  }, {
+    "people" : {
+      "id" : "85049",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-09-17T20:26:00",
+    "nick" : "Jl3x"
+  }, {
+    "people" : {
+      "id" : "93185",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-08-05T06:48:00",
+    "nick" : "Ju5kRMo"
+  }, {
+    "people" : {
+      "id" : "46958",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-01-24T12:14:00",
+    "nick" : "AGjdD"
+  }, {
+    "people" : {
+      "id" : "73778",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-01-10T08:44:00",
+    "nick" : "EPxHg"
+  }, {
+    "people" : {
+      "id" : "31770",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-12-24T04:59:00",
+    "nick" : "9mCUY"
+  }, {
+    "people" : {
+      "id" : "78385",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-10-03T16:54:00",
+    "nick" : "Pomw9PM"
+  }, {
+    "people" : {
+      "id" : "43608",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-07-24T03:52:00",
+    "nick" : "WhGMR"
+  }, {
+    "people" : {
+      "id" : "25673",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-07-17T10:59:00",
+    "nick" : "IRqutl4"
+  }, {
+    "people" : {
+      "id" : "60407",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-10-06T06:56:00",
+    "nick" : "D78EuWN"
+  }, {
+    "people" : {
+      "id" : "23097",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-02-05T17:49:00",
+    "nick" : "Wyop6H1"
+  }, {
+    "people" : {
+      "id" : "89330",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-03-29T01:42:00",
+    "nick" : "JjjE"
+  }, {
+    "people" : {
+      "id" : "82814",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-02-10T05:13:00",
+    "nick" : "GWGXi"
+  }, {
+    "people" : {
+      "id" : "92821",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-03-16T21:49:00",
+    "nick" : "L31T"
+  }, {
+    "people" : {
+      "id" : "37857",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-11-30T14:46:00",
+    "nick" : "Sdpez"
+  }, {
+    "people" : {
+      "id" : "47916",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-04-25T02:30:00",
+    "nick" : "JBXT3W1"
+  }, {
+    "people" : {
+      "id" : "18859",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-02-10T13:47:00",
+    "nick" : "XUcJ7t"
+  }, {
+    "people" : {
+      "id" : "72654",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-08-16T12:19:00",
+    "nick" : "ZBXMS"
+  }, {
+    "people" : {
+      "id" : "80953",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-01-14T06:07:00",
+    "nick" : "DJl"
+  }, {
+    "people" : {
+      "id" : "11309",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-02-10T23:47:00",
+    "nick" : "Z4fqcc"
+  }, {
+    "people" : {
+      "id" : "25931",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-05-19T16:54:00",
+    "nick" : "2muRh4"
+  }, {
+    "people" : {
+      "id" : "48064",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-02-11T07:16:00",
+    "nick" : "H8erYsM"
+  }, {
+    "people" : {
+      "id" : "97674",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-03-05T13:41:00",
+    "nick" : "UAXvk4"
+  }, {
+    "people" : {
+      "id" : "62796",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-06-19T01:21:00",
+    "nick" : "WYrTY"
+  }, {
+    "people" : {
+      "id" : "74995",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-01-27T02:48:00",
+    "nick" : "Ue5nBm"
+  }, {
+    "people" : {
+      "id" : "11325",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-10-18T23:24:00",
+    "nick" : "NXKgS1F"
+  }, {
+    "people" : {
+      "id" : "19249",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-04-05T05:32:00",
+    "nick" : "Mm0hago"
+  }, {
+    "people" : {
+      "id" : "91823",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-03-21T07:22:00",
+    "nick" : "Alpd"
+  }, {
+    "people" : {
+      "id" : "57231",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-02-06T03:10:00",
+    "nick" : "UpOF8B"
+  }, {
+    "people" : {
+      "id" : "12376",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-02-27T20:09:00",
+    "nick" : "GjAVT0"
+  }, {
+    "people" : {
+      "id" : "53268",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-06-13T11:59:00",
+    "nick" : "QCJn"
+  }, {
+    "people" : {
+      "id" : "72158",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-04-09T12:59:00",
+    "nick" : "S307X6E"
+  }, {
+    "people" : {
+      "id" : "96333",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-10-25T07:45:00",
+    "nick" : "4bv9n"
+  }, {
+    "people" : {
+      "id" : "50491",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-02-27T08:49:00",
+    "nick" : "QUW"
+  }, {
+    "people" : {
+      "id" : "32895",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-04-17T15:08:00",
+    "nick" : "VApqDLH"
+  }, {
+    "people" : {
+      "id" : "91166",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-11T11:34:00",
+    "nick" : "0Ikd8"
+  }, {
+    "people" : {
+      "id" : "31707",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-21T03:47:00",
+    "nick" : "KFSzRO"
+  }, {
+    "people" : {
+      "id" : "13400",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-07-20T03:40:00",
+    "nick" : "YjL5Yl"
+  }, {
+    "people" : {
+      "id" : "75321",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-04-08T19:40:00",
+    "nick" : "BMQWA"
+  }, {
+    "people" : {
+      "id" : "83428",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-12-21T14:37:00",
+    "nick" : "0ssddMf"
+  }, {
+    "people" : {
+      "id" : "28865",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-10-24T18:53:00",
+    "nick" : "2T5"
+  }, {
+    "people" : {
+      "id" : "11864",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-10-28T07:21:00",
+    "nick" : "NdHVSO"
+  }, {
+    "people" : {
+      "id" : "89758",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-13T05:02:00",
+    "nick" : "GhcMM"
+  }, {
+    "people" : {
+      "id" : "31006",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-09T21:14:00",
+    "nick" : "7cuXxQ"
+  }, {
+    "people" : {
+      "id" : "46864",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-10-19T09:13:00",
+    "nick" : "7Pp"
+  }, {
+    "people" : {
+      "id" : "39083",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-09-21T11:24:00",
+    "nick" : "XxLI7"
+  }, {
+    "people" : {
+      "id" : "25575",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-07-10T04:50:00",
+    "nick" : "Z9nsVXq"
+  }, {
+    "people" : {
+      "id" : "85314",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-04-12T11:05:00",
+    "nick" : "WFhvxP6"
+  }, {
+    "people" : {
+      "id" : "26878",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-10-06T05:26:00",
+    "nick" : "Bry8"
+  }, {
+    "people" : {
+      "id" : "78508",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-08-24T18:03:00",
+    "nick" : "DMShIB"
+  }, {
+    "people" : {
+      "id" : "34368",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-10-21T20:43:00",
+    "nick" : "DdOHA8"
+  }, {
+    "people" : {
+      "id" : "76158",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-09-29T05:36:00",
+    "nick" : "TY5Xk3"
+  }, {
+    "people" : {
+      "id" : "88817",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-07-27T05:52:00",
+    "nick" : "Q61o"
+  }, {
+    "people" : {
+      "id" : "23629",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-09-28T13:50:00",
+    "nick" : "Kik"
+  }, {
+    "people" : {
+      "id" : "45456",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-06-14T14:59:00",
+    "nick" : "O9A"
+  }, {
+    "people" : {
+      "id" : "13528",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-10-15T11:48:00",
+    "nick" : "EtLr5"
+  }, {
+    "people" : {
+      "id" : "68793",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-04-14T00:13:00",
+    "nick" : "JQR"
+  }, {
+    "people" : {
+      "id" : "49099",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-01-07T04:16:00",
+    "nick" : "Bvg4ucM"
+  }, {
+    "people" : {
+      "id" : "30231",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-12-16T23:55:00",
+    "nick" : "DkI"
+  }, {
+    "people" : {
+      "id" : "62241",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-01-28T21:39:00",
+    "nick" : "Dib"
+  }, {
+    "people" : {
+      "id" : "70940",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-03-28T09:27:00",
+    "nick" : "BVKuzf"
+  }, {
+    "people" : {
+      "id" : "58333",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-07-27T06:09:00",
+    "nick" : "Fp6ek9"
+  }, {
+    "people" : {
+      "id" : "61843",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2022-05-23T05:03:00",
+    "nick" : "IaOnoB"
+  }, {
+    "people" : {
+      "id" : "15619",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-05-22T12:10:00",
+    "nick" : "IlIPAdI"
+  }, {
+    "people" : {
+      "id" : "90410",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2023-10-12T22:02:00",
+    "nick" : "UQQsi"
+  }, {
+    "people" : {
+      "id" : "75011",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-12-16T22:45:00",
+    "nick" : "Z4LYGhd"
+  }, {
+    "people" : {
+      "id" : "23356",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-06-23T01:43:00",
+    "nick" : "Pv3WTCG"
+  }, {
+    "people" : {
+      "id" : "48912",
+      "namePunkt" : "Detroit"
+    },
+    "date" : "2024-08-29T09:00:00",
+    "nick" : "Iyb0kqG"
+  } ],
+  "date" : "2020-11-21T11:06:00",
+  "proectID" : "46579"
+}, {
+  "namePunkt" : "Honolulu",
+  "nameTerritory" : "34th Street",
+  "coordinates" : "33°12'44.28\"N 5°48'22.0\"E",
+  "descripton" : "Remove obstacles from sidewalks. Billboards clutter the road. Advertising is an important thing, but there are other places for it. The same applies to telephone booths, lamp posts. They need to be placed so as not to cause difficulties for pedestrians.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "18877",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-04-12T19:49:00",
+    "nick" : "NXhQi"
+  }, {
+    "people" : {
+      "id" : "76624",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-10-25T07:51:00",
+    "nick" : "GVU"
+  }, {
+    "people" : {
+      "id" : "32936",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-09-19T12:02:00",
+    "nick" : "HjQ4t"
+  }, {
+    "people" : {
+      "id" : "74843",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-05-08T19:04:00",
+    "nick" : "RJ8LtX"
+  }, {
+    "people" : {
+      "id" : "16794",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-11-06T11:05:00",
+    "nick" : "Ta0vNUA"
+  }, {
+    "people" : {
+      "id" : "11368",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-06-27T00:50:00",
+    "nick" : "Ovk0Jk"
+  }, {
+    "people" : {
+      "id" : "75617",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-08-18T23:50:00",
+    "nick" : "V0IJN"
+  }, {
+    "people" : {
+      "id" : "11973",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-02-02T18:33:00",
+    "nick" : "DAt"
+  }, {
+    "people" : {
+      "id" : "29901",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-08-03T16:46:00",
+    "nick" : "VAj4G"
+  }, {
+    "people" : {
+      "id" : "47429",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-03-05T07:48:00",
+    "nick" : "Lxj6"
+  }, {
+    "people" : {
+      "id" : "20982",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-03-10T02:51:00",
+    "nick" : "WL01uER"
+  }, {
+    "people" : {
+      "id" : "12318",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-01-24T00:50:00",
+    "nick" : "LKhy"
+  }, {
+    "people" : {
+      "id" : "72860",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-04-23T08:33:00",
+    "nick" : "Un7FZxy"
+  }, {
+    "people" : {
+      "id" : "51501",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-08-09T05:50:00",
+    "nick" : "Sdfu"
+  }, {
+    "people" : {
+      "id" : "75682",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-04-09T09:21:00",
+    "nick" : "AmUv"
+  }, {
+    "people" : {
+      "id" : "17022",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-06-17T05:35:00",
+    "nick" : "Q8LTD"
+  }, {
+    "people" : {
+      "id" : "74512",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-06-11T23:06:00",
+    "nick" : "NwfL"
+  }, {
+    "people" : {
+      "id" : "87623",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-10-08T01:16:00",
+    "nick" : "Gkrof"
+  }, {
+    "people" : {
+      "id" : "37251",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-11-27T01:19:00",
+    "nick" : "U26A1"
+  }, {
+    "people" : {
+      "id" : "18406",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-02-07T15:56:00",
+    "nick" : "0ke"
+  }, {
+    "people" : {
+      "id" : "74427",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-01-20T21:47:00",
+    "nick" : "5Rbe"
+  }, {
+    "people" : {
+      "id" : "32079",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-03-18T13:15:00",
+    "nick" : "Vkbk1C"
+  }, {
+    "people" : {
+      "id" : "60669",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-12-07T15:40:00",
+    "nick" : "Ggi2l7s"
+  }, {
+    "people" : {
+      "id" : "90094",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-04-30T05:14:00",
+    "nick" : "1yatRg"
+  }, {
+    "people" : {
+      "id" : "59439",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-06-13T15:40:00",
+    "nick" : "SFOuhFq"
+  }, {
+    "people" : {
+      "id" : "17427",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-02-06T14:06:00",
+    "nick" : "JAftkTs"
+  }, {
+    "people" : {
+      "id" : "39941",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-02-19T22:27:00",
+    "nick" : "GVEqkOh"
+  }, {
+    "people" : {
+      "id" : "52411",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-05-17T23:59:00",
+    "nick" : "YKy2"
+  }, {
+    "people" : {
+      "id" : "51607",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-04-30T17:04:00",
+    "nick" : "OLCzJa"
+  }, {
+    "people" : {
+      "id" : "64923",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-05-11T13:19:00",
+    "nick" : "OjY6qim"
+  }, {
+    "people" : {
+      "id" : "71905",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-11-30T21:50:00",
+    "nick" : "4Jf5"
+  }, {
+    "people" : {
+      "id" : "77735",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-03-05T08:43:00",
+    "nick" : "THvNb9b"
+  }, {
+    "people" : {
+      "id" : "57920",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-07-02T02:24:00",
+    "nick" : "B22qloS"
+  }, {
+    "people" : {
+      "id" : "14314",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-12-02T16:37:00",
+    "nick" : "BfQ4XkE"
+  }, {
+    "people" : {
+      "id" : "65522",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-01-26T11:44:00",
+    "nick" : "2cv"
+  }, {
+    "people" : {
+      "id" : "40559",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-05-08T01:56:00",
+    "nick" : "M7n"
+  }, {
+    "people" : {
+      "id" : "41586",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-02-15T11:21:00",
+    "nick" : "K107S4X"
+  }, {
+    "people" : {
+      "id" : "97242",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-09-12T20:28:00",
+    "nick" : "W2gm"
+  }, {
+    "people" : {
+      "id" : "25688",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-06-14T07:54:00",
+    "nick" : "Fud7x"
+  }, {
+    "people" : {
+      "id" : "51706",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-05-24T02:29:00",
+    "nick" : "BBmOIH"
+  }, {
+    "people" : {
+      "id" : "13870",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-01-29T04:27:00",
+    "nick" : "SgbXFt"
+  }, {
+    "people" : {
+      "id" : "82418",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-01-28T13:43:00",
+    "nick" : "AkW8167"
+  }, {
+    "people" : {
+      "id" : "29179",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-01-21T07:46:00",
+    "nick" : "A2vC"
+  }, {
+    "people" : {
+      "id" : "31284",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-11-25T08:35:00",
+    "nick" : "FSaDZ"
+  }, {
+    "people" : {
+      "id" : "76099",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-11-15T22:22:00",
+    "nick" : "40hV"
+  }, {
+    "people" : {
+      "id" : "96442",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-06-10T23:53:00",
+    "nick" : "USoW"
+  }, {
+    "people" : {
+      "id" : "46163",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-01-14T04:11:00",
+    "nick" : "DPKoH"
+  }, {
+    "people" : {
+      "id" : "14052",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-02-11T06:13:00",
+    "nick" : "LOI"
+  }, {
+    "people" : {
+      "id" : "63023",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-12-06T08:52:00",
+    "nick" : "OTpz3r"
+  }, {
+    "people" : {
+      "id" : "67142",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-09-09T22:55:00",
+    "nick" : "KL4xjt"
+  }, {
+    "people" : {
+      "id" : "97808",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-09-29T16:16:00",
+    "nick" : "G2AY0"
+  }, {
+    "people" : {
+      "id" : "40366",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-10-08T17:11:00",
+    "nick" : "3kzOxJD"
+  }, {
+    "people" : {
+      "id" : "79228",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-07-09T04:33:00",
+    "nick" : "YiZp5"
+  }, {
+    "people" : {
+      "id" : "44197",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-05-21T10:01:00",
+    "nick" : "CUGsnO"
+  }, {
+    "people" : {
+      "id" : "35545",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-11-18T08:39:00",
+    "nick" : "0VGF"
+  }, {
+    "people" : {
+      "id" : "12155",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-07-04T03:45:00",
+    "nick" : "Tr1bfDf"
+  }, {
+    "people" : {
+      "id" : "94318",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-01-13T20:04:00",
+    "nick" : "RhHqbQl"
+  }, {
+    "people" : {
+      "id" : "70621",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-05-09T22:57:00",
+    "nick" : "V2ha"
+  }, {
+    "people" : {
+      "id" : "54357",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-11-17T04:49:00",
+    "nick" : "JyB8otW"
+  }, {
+    "people" : {
+      "id" : "66037",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-08-25T08:15:00",
+    "nick" : "MiYp"
+  }, {
+    "people" : {
+      "id" : "77580",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-05-25T15:01:00",
+    "nick" : "TxbbkC"
+  }, {
+    "people" : {
+      "id" : "12898",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-05-24T11:52:00",
+    "nick" : "R2J"
+  }, {
+    "people" : {
+      "id" : "16781",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-05-23T11:05:00",
+    "nick" : "LmFD"
+  }, {
+    "people" : {
+      "id" : "21551",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-05-21T02:09:00",
+    "nick" : "FbUj70W"
+  }, {
+    "people" : {
+      "id" : "97650",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-12-11T23:52:00",
+    "nick" : "M1x"
+  }, {
+    "people" : {
+      "id" : "67331",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-02-01T05:44:00",
+    "nick" : "VHZNbnc"
+  }, {
+    "people" : {
+      "id" : "70931",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-06-20T05:44:00",
+    "nick" : "KyhG"
+  }, {
+    "people" : {
+      "id" : "66863",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-04-20T18:36:00",
+    "nick" : "NQY"
+  }, {
+    "people" : {
+      "id" : "64172",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-05-27T08:27:00",
+    "nick" : "Wnde"
+  }, {
+    "people" : {
+      "id" : "10192",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-10-03T20:45:00",
+    "nick" : "JtiT"
+  }, {
+    "people" : {
+      "id" : "93947",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-04-26T02:42:00",
+    "nick" : "ENhHjR"
+  }, {
+    "people" : {
+      "id" : "65780",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-01-25T18:47:00",
+    "nick" : "PyTkm"
+  }, {
+    "people" : {
+      "id" : "46571",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-07-01T07:47:00",
+    "nick" : "CDQHaX"
+  }, {
+    "people" : {
+      "id" : "14131",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-03-02T09:49:00",
+    "nick" : "QcdXXQ"
+  }, {
+    "people" : {
+      "id" : "67300",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-08-05T14:11:00",
+    "nick" : "3BfFhW"
+  }, {
+    "people" : {
+      "id" : "82951",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-10-10T00:38:00",
+    "nick" : "E2b0"
+  }, {
+    "people" : {
+      "id" : "31612",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-09-01T13:56:00",
+    "nick" : "7EQh"
+  }, {
+    "people" : {
+      "id" : "51069",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-09-01T15:12:00",
+    "nick" : "CJvnR"
+  }, {
+    "people" : {
+      "id" : "31498",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-10-19T17:19:00",
+    "nick" : "LxyWs"
+  }, {
+    "people" : {
+      "id" : "77307",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-01-23T21:50:00",
+    "nick" : "EYY9"
+  }, {
+    "people" : {
+      "id" : "66459",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-05-05T20:28:00",
+    "nick" : "HyZj8VP"
+  }, {
+    "people" : {
+      "id" : "69810",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-07-12T11:30:00",
+    "nick" : "AP1"
+  }, {
+    "people" : {
+      "id" : "44405",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-10-18T22:23:00",
+    "nick" : "0MdWI"
+  }, {
+    "people" : {
+      "id" : "34394",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-07-18T11:41:00",
+    "nick" : "DWDYr5"
+  }, {
+    "people" : {
+      "id" : "93386",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2022-01-03T21:28:00",
+    "nick" : "FME"
+  }, {
+    "people" : {
+      "id" : "73245",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-02-11T22:41:00",
+    "nick" : "XkArf"
+  }, {
+    "people" : {
+      "id" : "29513",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-01-06T13:18:00",
+    "nick" : "W1FdNfU"
+  }, {
+    "people" : {
+      "id" : "14475",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-08-13T00:46:00",
+    "nick" : "86nDjS"
+  }, {
+    "people" : {
+      "id" : "44145",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-07-27T11:46:00",
+    "nick" : "E23"
+  }, {
+    "people" : {
+      "id" : "94662",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-03-10T07:31:00",
+    "nick" : "Kqr3"
+  }, {
+    "people" : {
+      "id" : "17485",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-02-24T10:00:00",
+    "nick" : "GyedBKb"
+  }, {
+    "people" : {
+      "id" : "46240",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-05-19T19:09:00",
+    "nick" : "W4ar"
+  }, {
+    "people" : {
+      "id" : "50214",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-10-03T00:30:00",
+    "nick" : "Yby"
+  }, {
+    "people" : {
+      "id" : "17908",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-12-23T18:42:00",
+    "nick" : "O7RMi"
+  }, {
+    "people" : {
+      "id" : "78468",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2024-04-01T23:28:00",
+    "nick" : "Fp3"
+  }, {
+    "people" : {
+      "id" : "35946",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2021-05-09T23:25:00",
+    "nick" : "L9uR"
+  }, {
+    "people" : {
+      "id" : "12476",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-06-03T04:30:00",
+    "nick" : "MdDYn"
+  }, {
+    "people" : {
+      "id" : "88576",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-05-21T23:55:00",
+    "nick" : "Ni9"
+  }, {
+    "people" : {
+      "id" : "85321",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-01-22T04:17:00",
+    "nick" : "5Cqa"
+  }, {
+    "people" : {
+      "id" : "88538",
+      "namePunkt" : "Honolulu"
+    },
+    "date" : "2023-04-17T19:49:00",
+    "nick" : "9t39A"
+  } ],
+  "date" : "2019-09-21T15:15:00",
+  "proectID" : "99588"
+}, {
+  "namePunkt" : "Houston",
+  "nameTerritory" : "Avenue A",
+  "coordinates" : "8°25'27.32\"N 42°14'49.14\"E",
+  "descripton" : "Provide seating. Whatever a person prefers, he is unlikely to refuse the opportunity to sit down somewhere after a long walk. Therefore, in squares, parks, courtyards and other similar places there should be a lot of benches, benches, movable chairs.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "75388",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-01T19:37:00",
+    "nick" : "WxE"
+  }, {
+    "people" : {
+      "id" : "22682",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-21T18:54:00",
+    "nick" : "KNud"
+  }, {
+    "people" : {
+      "id" : "75083",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-02-21T01:11:00",
+    "nick" : "PFZ"
+  }, {
+    "people" : {
+      "id" : "93679",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-10-10T15:10:00",
+    "nick" : "Jfs4X"
+  }, {
+    "people" : {
+      "id" : "74122",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-11-13T02:40:00",
+    "nick" : "Q3WLuv"
+  }, {
+    "people" : {
+      "id" : "98935",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-03-14T16:32:00",
+    "nick" : "BzZ"
+  }, {
+    "people" : {
+      "id" : "47598",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-02-22T14:46:00",
+    "nick" : "AZ4zS"
+  }, {
+    "people" : {
+      "id" : "61228",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-06-22T01:37:00",
+    "nick" : "KjVXj"
+  }, {
+    "people" : {
+      "id" : "13565",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-03-08T01:32:00",
+    "nick" : "GcKRq"
+  }, {
+    "people" : {
+      "id" : "54011",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-03-05T19:31:00",
+    "nick" : "TVyLg"
+  }, {
+    "people" : {
+      "id" : "13745",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-01-28T07:26:00",
+    "nick" : "6wEs"
+  }, {
+    "people" : {
+      "id" : "13245",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-09-25T14:17:00",
+    "nick" : "Vf7vH"
+  }, {
+    "people" : {
+      "id" : "13318",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-12-05T22:46:00",
+    "nick" : "BEyvB9G"
+  }, {
+    "people" : {
+      "id" : "27503",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-03-14T07:34:00",
+    "nick" : "VVeaST6"
+  }, {
+    "people" : {
+      "id" : "23823",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-06-25T06:22:00",
+    "nick" : "J519dt2"
+  }, {
+    "people" : {
+      "id" : "28558",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-07-24T09:31:00",
+    "nick" : "MVY"
+  }, {
+    "people" : {
+      "id" : "23316",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-07-08T23:35:00",
+    "nick" : "YwkE"
+  }, {
+    "people" : {
+      "id" : "66708",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-10-05T11:28:00",
+    "nick" : "Poa"
+  }, {
+    "people" : {
+      "id" : "62734",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-04-20T00:46:00",
+    "nick" : "SCB67"
+  }, {
+    "people" : {
+      "id" : "73371",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-10-15T13:41:00",
+    "nick" : "XMhf1B"
+  }, {
+    "people" : {
+      "id" : "11866",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-02T15:57:00",
+    "nick" : "GIa1yXp"
+  }, {
+    "people" : {
+      "id" : "13730",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-09-11T11:35:00",
+    "nick" : "WLsyY"
+  }, {
+    "people" : {
+      "id" : "50955",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-07-11T04:20:00",
+    "nick" : "Es7"
+  }, {
+    "people" : {
+      "id" : "23128",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-01-01T06:45:00",
+    "nick" : "JJSUloE"
+  }, {
+    "people" : {
+      "id" : "41246",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-08-24T14:14:00",
+    "nick" : "SSG"
+  }, {
+    "people" : {
+      "id" : "53388",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-02-04T23:42:00",
+    "nick" : "XqXV"
+  }, {
+    "people" : {
+      "id" : "79269",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-23T16:13:00",
+    "nick" : "Cswgy0"
+  }, {
+    "people" : {
+      "id" : "21534",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-06-23T08:46:00",
+    "nick" : "AhGE7"
+  }, {
+    "people" : {
+      "id" : "91959",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-06-14T02:59:00",
+    "nick" : "VNWl"
+  }, {
+    "people" : {
+      "id" : "53724",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-10T16:46:00",
+    "nick" : "7gjcWv"
+  }, {
+    "people" : {
+      "id" : "58351",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-03-14T12:29:00",
+    "nick" : "5XV"
+  }, {
+    "people" : {
+      "id" : "74150",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-06-23T08:25:00",
+    "nick" : "GNTP"
+  }, {
+    "people" : {
+      "id" : "69980",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-10-21T21:09:00",
+    "nick" : "LkRN"
+  }, {
+    "people" : {
+      "id" : "31083",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-04-21T22:51:00",
+    "nick" : "EemL"
+  }, {
+    "people" : {
+      "id" : "27553",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-06-24T15:23:00",
+    "nick" : "BIo"
+  }, {
+    "people" : {
+      "id" : "70565",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-10-16T13:08:00",
+    "nick" : "YfaK"
+  }, {
+    "people" : {
+      "id" : "21627",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-12-07T02:38:00",
+    "nick" : "56w"
+  }, {
+    "people" : {
+      "id" : "87784",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-01-09T20:51:00",
+    "nick" : "Wqe"
+  }, {
+    "people" : {
+      "id" : "36732",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-02-24T00:51:00",
+    "nick" : "DpxgR8x"
+  }, {
+    "people" : {
+      "id" : "18693",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-02-02T06:41:00",
+    "nick" : "1zjqCq"
+  }, {
+    "people" : {
+      "id" : "58195",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-04-19T05:03:00",
+    "nick" : "LGzw"
+  }, {
+    "people" : {
+      "id" : "21009",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-07-16T01:49:00",
+    "nick" : "FXl5jr0"
+  }, {
+    "people" : {
+      "id" : "64292",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-08-28T15:57:00",
+    "nick" : "MMrIe"
+  }, {
+    "people" : {
+      "id" : "66296",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-06-13T09:05:00",
+    "nick" : "TRmeknQ"
+  }, {
+    "people" : {
+      "id" : "91457",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-05-14T20:03:00",
+    "nick" : "Fm68H"
+  }, {
+    "people" : {
+      "id" : "89760",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-26T20:42:00",
+    "nick" : "EjB"
+  }, {
+    "people" : {
+      "id" : "83738",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-10-07T02:33:00",
+    "nick" : "46r"
+  }, {
+    "people" : {
+      "id" : "97612",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-11-23T22:12:00",
+    "nick" : "YKVk"
+  }, {
+    "people" : {
+      "id" : "83093",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-07-22T02:00:00",
+    "nick" : "931UO"
+  }, {
+    "people" : {
+      "id" : "81790",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-03T22:00:00",
+    "nick" : "PJ0II1"
+  }, {
+    "people" : {
+      "id" : "99536",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-05-28T18:50:00",
+    "nick" : "Az1j8"
+  }, {
+    "people" : {
+      "id" : "12335",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-01-15T10:34:00",
+    "nick" : "Tr2vd"
+  }, {
+    "people" : {
+      "id" : "69176",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-05-25T01:43:00",
+    "nick" : "CpUZGN"
+  }, {
+    "people" : {
+      "id" : "54761",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-05-26T14:42:00",
+    "nick" : "PeYiupV"
+  }, {
+    "people" : {
+      "id" : "48752",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-19T23:34:00",
+    "nick" : "PytHb"
+  }, {
+    "people" : {
+      "id" : "23067",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-10-27T14:48:00",
+    "nick" : "MSjDiZP"
+  }, {
+    "people" : {
+      "id" : "80624",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-02-05T06:34:00",
+    "nick" : "OdtDgF"
+  }, {
+    "people" : {
+      "id" : "79329",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-01-05T14:41:00",
+    "nick" : "UwJ"
+  }, {
+    "people" : {
+      "id" : "72372",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-06-26T04:17:00",
+    "nick" : "IGN"
+  }, {
+    "people" : {
+      "id" : "24822",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-06-22T20:43:00",
+    "nick" : "V4dfDlf"
+  }, {
+    "people" : {
+      "id" : "52378",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-11-19T00:49:00",
+    "nick" : "19OKi7"
+  }, {
+    "people" : {
+      "id" : "38578",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-10-08T04:32:00",
+    "nick" : "DYht3u"
+  }, {
+    "people" : {
+      "id" : "94337",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-18T02:16:00",
+    "nick" : "AMKmz"
+  }, {
+    "people" : {
+      "id" : "77957",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-04-29T19:11:00",
+    "nick" : "8Rnva"
+  }, {
+    "people" : {
+      "id" : "93838",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-07T16:42:00",
+    "nick" : "Tubo"
+  }, {
+    "people" : {
+      "id" : "11050",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-02-28T13:32:00",
+    "nick" : "3Z6j6E"
+  }, {
+    "people" : {
+      "id" : "24078",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-07-25T19:55:00",
+    "nick" : "19OoC"
+  }, {
+    "people" : {
+      "id" : "80143",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-10-20T15:21:00",
+    "nick" : "WOmKsn"
+  }, {
+    "people" : {
+      "id" : "24779",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-07-08T16:06:00",
+    "nick" : "BQP9K7"
+  }, {
+    "people" : {
+      "id" : "45336",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-11-14T12:37:00",
+    "nick" : "MVg"
+  }, {
+    "people" : {
+      "id" : "17966",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-08-31T05:22:00",
+    "nick" : "Rgc0LTZ"
+  }, {
+    "people" : {
+      "id" : "79606",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-04-14T05:57:00",
+    "nick" : "C1b1z"
+  }, {
+    "people" : {
+      "id" : "53994",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-03T04:48:00",
+    "nick" : "IhZR"
+  }, {
+    "people" : {
+      "id" : "13099",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-07-10T11:07:00",
+    "nick" : "FhXz"
+  }, {
+    "people" : {
+      "id" : "19943",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-01-21T03:48:00",
+    "nick" : "ROS"
+  }, {
+    "people" : {
+      "id" : "71976",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-01-31T03:38:00",
+    "nick" : "5QlQTa"
+  }, {
+    "people" : {
+      "id" : "93083",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-25T13:45:00",
+    "nick" : "FHQc0"
+  }, {
+    "people" : {
+      "id" : "52505",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-03-21T04:28:00",
+    "nick" : "BQvC"
+  }, {
+    "people" : {
+      "id" : "55314",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-25T10:39:00",
+    "nick" : "MB2p0"
+  }, {
+    "people" : {
+      "id" : "86311",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-09-09T01:12:00",
+    "nick" : "N9c"
+  }, {
+    "people" : {
+      "id" : "27953",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-02-24T12:02:00",
+    "nick" : "QpzSuyl"
+  }, {
+    "people" : {
+      "id" : "50077",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-04-29T09:16:00",
+    "nick" : "SW6"
+  }, {
+    "people" : {
+      "id" : "32945",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-07-29T22:35:00",
+    "nick" : "4I2AKy7"
+  }, {
+    "people" : {
+      "id" : "42255",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-02-19T18:20:00",
+    "nick" : "Jq9vhsV"
+  }, {
+    "people" : {
+      "id" : "92182",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-02-22T18:06:00",
+    "nick" : "PvUsKd"
+  }, {
+    "people" : {
+      "id" : "87857",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-25T05:10:00",
+    "nick" : "VshjaM"
+  }, {
+    "people" : {
+      "id" : "58860",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-08-11T21:59:00",
+    "nick" : "F8onp"
+  }, {
+    "people" : {
+      "id" : "85236",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-12-23T07:34:00",
+    "nick" : "9OC"
+  }, {
+    "people" : {
+      "id" : "77662",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-11-04T05:53:00",
+    "nick" : "5gGFgv"
+  }, {
+    "people" : {
+      "id" : "64287",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-10-17T22:50:00",
+    "nick" : "UM5d2X9"
+  }, {
+    "people" : {
+      "id" : "91532",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-25T12:20:00",
+    "nick" : "YjmsY"
+  }, {
+    "people" : {
+      "id" : "71834",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-05-30T16:37:00",
+    "nick" : "9u5nCDZ"
+  }, {
+    "people" : {
+      "id" : "72942",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-08-30T04:12:00",
+    "nick" : "D0J"
+  }, {
+    "people" : {
+      "id" : "33828",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-05T18:16:00",
+    "nick" : "B930gMs"
+  }, {
+    "people" : {
+      "id" : "32528",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-14T16:45:00",
+    "nick" : "80ldCB"
+  }, {
+    "people" : {
+      "id" : "10580",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-05-23T09:39:00",
+    "nick" : "Zp8Z"
+  }, {
+    "people" : {
+      "id" : "78486",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-05-30T03:46:00",
+    "nick" : "RdCUn3"
+  }, {
+    "people" : {
+      "id" : "61872",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2024-12-15T06:13:00",
+    "nick" : "O0yrU"
+  }, {
+    "people" : {
+      "id" : "55244",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-05-08T07:47:00",
+    "nick" : "PsT"
+  }, {
+    "people" : {
+      "id" : "12940",
+      "namePunkt" : "Houston"
+    },
+    "date" : "2023-03-22T16:48:00",
+    "nick" : "VxYsasH"
+  } ],
+  "date" : "2021-10-16T15:02:00",
+  "proectID" : "80877"
+}, {
+  "namePunkt" : "Miami",
+  "nameTerritory" : "Avenue B",
+  "coordinates" : "20°36'1.32\"N 3°37'13.2\"E",
+  "descripton" : "Arrange special areas for walking dogs. A dog is man’s friend, but not always. The areas should be small, but within walking distance. One area for every four houses will make the yards cleaner and calmer.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "47763",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-12-14T13:06:00",
+    "nick" : "JQY7"
+  }, {
+    "people" : {
+      "id" : "18880",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-12-27T11:19:00",
+    "nick" : "BAS"
+  }, {
+    "people" : {
+      "id" : "72747",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-04-11T21:25:00",
+    "nick" : "PxzR"
+  }, {
+    "people" : {
+      "id" : "13274",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-08-16T15:52:00",
+    "nick" : "GRQe"
+  }, {
+    "people" : {
+      "id" : "32708",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-07-06T16:46:00",
+    "nick" : "LZ0Z"
+  }, {
+    "people" : {
+      "id" : "31876",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-06-29T23:39:00",
+    "nick" : "HhLG"
+  }, {
+    "people" : {
+      "id" : "38188",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-12-28T23:07:00",
+    "nick" : "0yFxX1h"
+  }, {
+    "people" : {
+      "id" : "79629",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-05-10T00:45:00",
+    "nick" : "SC4"
+  }, {
+    "people" : {
+      "id" : "84690",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-04-12T11:30:00",
+    "nick" : "46ft4"
+  }, {
+    "people" : {
+      "id" : "23238",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-08-16T13:56:00",
+    "nick" : "J7QeS"
+  }, {
+    "people" : {
+      "id" : "40855",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-03-25T10:06:00",
+    "nick" : "YB5mPY"
+  }, {
+    "people" : {
+      "id" : "66408",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-07-04T03:12:00",
+    "nick" : "G22"
+  }, {
+    "people" : {
+      "id" : "93566",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-11-27T19:41:00",
+    "nick" : "UTTLgR"
+  }, {
+    "people" : {
+      "id" : "99676",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-09-21T13:15:00",
+    "nick" : "OfTSK1"
+  }, {
+    "people" : {
+      "id" : "39254",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-02-20T09:36:00",
+    "nick" : "OQHi51I"
+  }, {
+    "people" : {
+      "id" : "50897",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-10-06T02:04:00",
+    "nick" : "MwP"
+  }, {
+    "people" : {
+      "id" : "93474",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-09-26T11:16:00",
+    "nick" : "6kwqc6"
+  }, {
+    "people" : {
+      "id" : "99508",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-10-30T03:43:00",
+    "nick" : "3oG3"
+  }, {
+    "people" : {
+      "id" : "90640",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-01-29T21:25:00",
+    "nick" : "4nbe"
+  }, {
+    "people" : {
+      "id" : "94419",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-11-13T14:50:00",
+    "nick" : "FrF"
+  }, {
+    "people" : {
+      "id" : "88679",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-11-14T11:19:00",
+    "nick" : "Ipi"
+  }, {
+    "people" : {
+      "id" : "84225",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-02-22T22:53:00",
+    "nick" : "MDsyqoL"
+  }, {
+    "people" : {
+      "id" : "45354",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-07-21T22:39:00",
+    "nick" : "68TKkcm"
+  }, {
+    "people" : {
+      "id" : "86641",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-11-26T05:45:00",
+    "nick" : "QFUJY"
+  }, {
+    "people" : {
+      "id" : "86577",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-10-10T03:16:00",
+    "nick" : "OQpoy"
+  }, {
+    "people" : {
+      "id" : "66435",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-08-08T17:12:00",
+    "nick" : "D1YpEe"
+  }, {
+    "people" : {
+      "id" : "17817",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-03-29T03:34:00",
+    "nick" : "Ibpl5C"
+  }, {
+    "people" : {
+      "id" : "86645",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-07-19T09:14:00",
+    "nick" : "DUyICRQ"
+  }, {
+    "people" : {
+      "id" : "38350",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-12-15T04:03:00",
+    "nick" : "NQD"
+  }, {
+    "people" : {
+      "id" : "89979",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-12-12T01:21:00",
+    "nick" : "Uk0Og"
+  }, {
+    "people" : {
+      "id" : "35886",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-04-09T16:27:00",
+    "nick" : "0nFK"
+  }, {
+    "people" : {
+      "id" : "67625",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-08-17T01:57:00",
+    "nick" : "LOhbfY"
+  }, {
+    "people" : {
+      "id" : "48810",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-08-01T11:16:00",
+    "nick" : "SLpmy"
+  }, {
+    "people" : {
+      "id" : "18772",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-07-13T18:43:00",
+    "nick" : "XLJkqra"
+  }, {
+    "people" : {
+      "id" : "23737",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-12-15T19:33:00",
+    "nick" : "4eCP"
+  }, {
+    "people" : {
+      "id" : "52932",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-05-27T06:42:00",
+    "nick" : "Qmnfa3L"
+  }, {
+    "people" : {
+      "id" : "86784",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-03-13T17:53:00",
+    "nick" : "NrRsyvs"
+  }, {
+    "people" : {
+      "id" : "99851",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-07-25T14:57:00",
+    "nick" : "Ko7t9a"
+  }, {
+    "people" : {
+      "id" : "22178",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-02-01T01:15:00",
+    "nick" : "OqDqR"
+  }, {
+    "people" : {
+      "id" : "49642",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-04-09T00:51:00",
+    "nick" : "XYY"
+  }, {
+    "people" : {
+      "id" : "20449",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-06-09T11:46:00",
+    "nick" : "XfLvK"
+  }, {
+    "people" : {
+      "id" : "94237",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-11-21T17:50:00",
+    "nick" : "G73Tfg4"
+  }, {
+    "people" : {
+      "id" : "11839",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-08-27T01:13:00",
+    "nick" : "NOmCzSm"
+  }, {
+    "people" : {
+      "id" : "97501",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-05-14T22:15:00",
+    "nick" : "OlVjTj"
+  }, {
+    "people" : {
+      "id" : "83989",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-11-25T15:43:00",
+    "nick" : "47gFr4q"
+  }, {
+    "people" : {
+      "id" : "10295",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-10-16T06:57:00",
+    "nick" : "T1IIh2H"
+  }, {
+    "people" : {
+      "id" : "14337",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-11-09T09:44:00",
+    "nick" : "T6Q5t"
+  }, {
+    "people" : {
+      "id" : "51810",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-09-01T19:08:00",
+    "nick" : "12Fh"
+  }, {
+    "people" : {
+      "id" : "69929",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-08-16T22:10:00",
+    "nick" : "RH9ER8"
+  }, {
+    "people" : {
+      "id" : "75992",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-09-04T04:34:00",
+    "nick" : "SS0ynp1"
+  }, {
+    "people" : {
+      "id" : "33042",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-10-05T01:50:00",
+    "nick" : "BNX"
+  }, {
+    "people" : {
+      "id" : "59447",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-01-11T09:28:00",
+    "nick" : "QJ6"
+  }, {
+    "people" : {
+      "id" : "22156",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-01-30T12:42:00",
+    "nick" : "Fz9vB"
+  }, {
+    "people" : {
+      "id" : "73833",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-08-01T06:47:00",
+    "nick" : "E2U"
+  }, {
+    "people" : {
+      "id" : "52066",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-11-26T02:59:00",
+    "nick" : "YBV"
+  }, {
+    "people" : {
+      "id" : "61866",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-01-23T20:07:00",
+    "nick" : "PjkPWfs"
+  }, {
+    "people" : {
+      "id" : "96639",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-09-13T03:23:00",
+    "nick" : "T0p4K"
+  }, {
+    "people" : {
+      "id" : "65423",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-09-21T18:41:00",
+    "nick" : "OAO5Xle"
+  }, {
+    "people" : {
+      "id" : "51385",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-10-08T21:17:00",
+    "nick" : "WzZC8VH"
+  }, {
+    "people" : {
+      "id" : "97331",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-07-11T00:34:00",
+    "nick" : "W52"
+  }, {
+    "people" : {
+      "id" : "68023",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-12-21T00:12:00",
+    "nick" : "EO4jEC"
+  }, {
+    "people" : {
+      "id" : "51008",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-09-30T20:58:00",
+    "nick" : "RNPdL"
+  }, {
+    "people" : {
+      "id" : "17208",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-11-18T01:59:00",
+    "nick" : "4SUGWwb"
+  }, {
+    "people" : {
+      "id" : "29389",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-05-03T15:05:00",
+    "nick" : "BQ2zu"
+  }, {
+    "people" : {
+      "id" : "38327",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-06-21T13:36:00",
+    "nick" : "FUL"
+  }, {
+    "people" : {
+      "id" : "35452",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-03-19T12:10:00",
+    "nick" : "58huG"
+  }, {
+    "people" : {
+      "id" : "10824",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-02-21T10:23:00",
+    "nick" : "LG05G1"
+  }, {
+    "people" : {
+      "id" : "25242",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-10-28T11:08:00",
+    "nick" : "SLL"
+  }, {
+    "people" : {
+      "id" : "37760",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-01-22T19:57:00",
+    "nick" : "V80Ys9S"
+  }, {
+    "people" : {
+      "id" : "80353",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-06-19T12:05:00",
+    "nick" : "AkBwgP"
+  }, {
+    "people" : {
+      "id" : "18751",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-10-11T02:30:00",
+    "nick" : "JSsjUo5"
+  }, {
+    "people" : {
+      "id" : "51898",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-07-22T12:05:00",
+    "nick" : "MtDoBwK"
+  }, {
+    "people" : {
+      "id" : "66602",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-12-26T15:04:00",
+    "nick" : "WdNMgZ"
+  }, {
+    "people" : {
+      "id" : "40814",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-07-06T05:39:00",
+    "nick" : "JiA"
+  }, {
+    "people" : {
+      "id" : "33333",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-07-01T10:19:00",
+    "nick" : "Y0GZ"
+  }, {
+    "people" : {
+      "id" : "94529",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-05-08T13:18:00",
+    "nick" : "TYY"
+  }, {
+    "people" : {
+      "id" : "49171",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-03-13T10:46:00",
+    "nick" : "TFM"
+  }, {
+    "people" : {
+      "id" : "80533",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-06-18T20:43:00",
+    "nick" : "RMcXS4"
+  }, {
+    "people" : {
+      "id" : "45448",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-08-20T05:13:00",
+    "nick" : "KidFR"
+  }, {
+    "people" : {
+      "id" : "70353",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-08-15T03:43:00",
+    "nick" : "JNhq"
+  }, {
+    "people" : {
+      "id" : "72392",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-10-26T12:24:00",
+    "nick" : "3F6n6h"
+  }, {
+    "people" : {
+      "id" : "24713",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-03-18T15:54:00",
+    "nick" : "TnWb"
+  }, {
+    "people" : {
+      "id" : "93946",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-10-20T09:38:00",
+    "nick" : "GXt3wu"
+  }, {
+    "people" : {
+      "id" : "38005",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-12-15T07:32:00",
+    "nick" : "Su9v"
+  }, {
+    "people" : {
+      "id" : "78980",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-04-01T02:28:00",
+    "nick" : "RjNlmMl"
+  }, {
+    "people" : {
+      "id" : "41390",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-03-22T20:25:00",
+    "nick" : "THEEp9c"
+  }, {
+    "people" : {
+      "id" : "24689",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-08-29T15:53:00",
+    "nick" : "RRAxy95"
+  }, {
+    "people" : {
+      "id" : "84684",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-04-22T19:31:00",
+    "nick" : "XBg8Kx"
+  }, {
+    "people" : {
+      "id" : "60501",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-06-06T12:36:00",
+    "nick" : "HgTf"
+  }, {
+    "people" : {
+      "id" : "96557",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-02-25T20:49:00",
+    "nick" : "AnM4A"
+  }, {
+    "people" : {
+      "id" : "49539",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-11-25T23:28:00",
+    "nick" : "6K29BUW"
+  }, {
+    "people" : {
+      "id" : "51172",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-11-26T03:13:00",
+    "nick" : "Z2DO"
+  }, {
+    "people" : {
+      "id" : "81369",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-06-07T05:39:00",
+    "nick" : "3vqy285"
+  }, {
+    "people" : {
+      "id" : "86403",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-05-29T20:26:00",
+    "nick" : "92a"
+  }, {
+    "people" : {
+      "id" : "32292",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-03-02T15:40:00",
+    "nick" : "QLl9w"
+  }, {
+    "people" : {
+      "id" : "97704",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-11-20T16:40:00",
+    "nick" : "LCzZO"
+  }, {
+    "people" : {
+      "id" : "86948",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2022-06-13T07:16:00",
+    "nick" : "9FQ"
+  }, {
+    "people" : {
+      "id" : "46810",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2021-01-04T15:28:00",
+    "nick" : "24T43"
+  }, {
+    "people" : {
+      "id" : "14209",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2023-03-30T19:47:00",
+    "nick" : "NDlSn"
+  }, {
+    "people" : {
+      "id" : "30523",
+      "namePunkt" : "Miami"
+    },
+    "date" : "2024-07-29T01:06:00",
+    "nick" : "Btyp"
+  } ],
+  "date" : "2019-08-25T00:06:00",
+  "proectID" : "69758"
+}, {
+  "namePunkt" : "Texas",
+  "nameTerritory" : "Park Avenue",
+  "coordinates" : "19°34'10.31\"N 6°9'30.15\"E",
+  "descripton" : "Think about protection from rain, wind and cold. You want to go for a walk even in bad weather. Canopies, wind barriers and infrared heaters can contribute to this. Naturally, they should not be installed everywhere, but in the most popular and attractive places.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "87075",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-10-25T15:15:00",
+    "nick" : "LRHiZxb"
+  }, {
+    "people" : {
+      "id" : "67206",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-12-04T03:10:00",
+    "nick" : "2fX22i"
+  }, {
+    "people" : {
+      "id" : "41138",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-11-02T18:48:00",
+    "nick" : "KqZ"
+  }, {
+    "people" : {
+      "id" : "70595",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-03-22T22:55:00",
+    "nick" : "KOg"
+  }, {
+    "people" : {
+      "id" : "72956",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-07-17T12:49:00",
+    "nick" : "ZgOEEKz"
+  }, {
+    "people" : {
+      "id" : "51067",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-06-30T17:18:00",
+    "nick" : "VgVsi3"
+  }, {
+    "people" : {
+      "id" : "13043",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-07-20T07:43:00",
+    "nick" : "KNM1c"
+  }, {
+    "people" : {
+      "id" : "80197",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-02-01T07:38:00",
+    "nick" : "Xmuo"
+  }, {
+    "people" : {
+      "id" : "42582",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-01-12T18:40:00",
+    "nick" : "SAgv"
+  }, {
+    "people" : {
+      "id" : "71291",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-01-25T10:45:00",
+    "nick" : "ZHT85"
+  }, {
+    "people" : {
+      "id" : "63169",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-07-24T06:33:00",
+    "nick" : "Lw7dWr"
+  }, {
+    "people" : {
+      "id" : "74852",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-02-27T09:07:00",
+    "nick" : "CfN8TF"
+  }, {
+    "people" : {
+      "id" : "13632",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-01-20T06:45:00",
+    "nick" : "2kbxvhU"
+  }, {
+    "people" : {
+      "id" : "16125",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-06-04T18:14:00",
+    "nick" : "7Y9fgQB"
+  }, {
+    "people" : {
+      "id" : "83128",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-11-04T13:02:00",
+    "nick" : "EazYNs"
+  }, {
+    "people" : {
+      "id" : "28998",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-08-05T08:50:00",
+    "nick" : "OvedjAQ"
+  }, {
+    "people" : {
+      "id" : "92906",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-03-20T02:00:00",
+    "nick" : "WgNqk"
+  }, {
+    "people" : {
+      "id" : "82454",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-03-17T10:16:00",
+    "nick" : "4clSz"
+  }, {
+    "people" : {
+      "id" : "92549",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-09-05T04:08:00",
+    "nick" : "Kv2R"
+  }, {
+    "people" : {
+      "id" : "56872",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-09-18T15:11:00",
+    "nick" : "D04CcNh"
+  }, {
+    "people" : {
+      "id" : "70816",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-10-28T13:45:00",
+    "nick" : "JnaA"
+  }, {
+    "people" : {
+      "id" : "62105",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-07-19T23:41:00",
+    "nick" : "Odt3AU9"
+  }, {
+    "people" : {
+      "id" : "87821",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-03-24T06:27:00",
+    "nick" : "VMui"
+  }, {
+    "people" : {
+      "id" : "33509",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-10-31T22:24:00",
+    "nick" : "E4FqD"
+  }, {
+    "people" : {
+      "id" : "17716",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-05-12T05:12:00",
+    "nick" : "Wm65cj"
+  }, {
+    "people" : {
+      "id" : "52799",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-10-21T15:36:00",
+    "nick" : "TAh7cy"
+  }, {
+    "people" : {
+      "id" : "99933",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-07-28T08:15:00",
+    "nick" : "X12x"
+  }, {
+    "people" : {
+      "id" : "69104",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-11-04T14:18:00",
+    "nick" : "M4sgfV"
+  }, {
+    "people" : {
+      "id" : "12908",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-05-15T04:01:00",
+    "nick" : "Exni"
+  }, {
+    "people" : {
+      "id" : "39319",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-06-26T12:54:00",
+    "nick" : "Cp0Cn"
+  }, {
+    "people" : {
+      "id" : "51271",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-11-16T00:27:00",
+    "nick" : "IdO"
+  }, {
+    "people" : {
+      "id" : "81038",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-07-06T09:04:00",
+    "nick" : "AdW"
+  }, {
+    "people" : {
+      "id" : "90483",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-04-28T02:09:00",
+    "nick" : "Ivl7"
+  }, {
+    "people" : {
+      "id" : "55700",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-01-16T16:12:00",
+    "nick" : "ALSVj"
+  }, {
+    "people" : {
+      "id" : "41151",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-05-21T05:37:00",
+    "nick" : "VKkc"
+  }, {
+    "people" : {
+      "id" : "60049",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-06-24T13:35:00",
+    "nick" : "ESs"
+  }, {
+    "people" : {
+      "id" : "40656",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-12-16T20:36:00",
+    "nick" : "HzSsJIq"
+  }, {
+    "people" : {
+      "id" : "21879",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-12-27T13:08:00",
+    "nick" : "TMAt"
+  }, {
+    "people" : {
+      "id" : "54500",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-10-14T12:00:00",
+    "nick" : "Be9"
+  }, {
+    "people" : {
+      "id" : "56977",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-08-03T23:48:00",
+    "nick" : "BzqQ"
+  }, {
+    "people" : {
+      "id" : "44205",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-01-30T09:28:00",
+    "nick" : "VZl7"
+  }, {
+    "people" : {
+      "id" : "69043",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-05-29T17:05:00",
+    "nick" : "5O7s"
+  }, {
+    "people" : {
+      "id" : "32232",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-09-12T06:47:00",
+    "nick" : "RzVO"
+  }, {
+    "people" : {
+      "id" : "30239",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-04-26T20:52:00",
+    "nick" : "VUua"
+  }, {
+    "people" : {
+      "id" : "96789",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-03-21T11:10:00",
+    "nick" : "51U0"
+  }, {
+    "people" : {
+      "id" : "96893",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-08-13T07:20:00",
+    "nick" : "DJlZo"
+  }, {
+    "people" : {
+      "id" : "74757",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-02-09T03:45:00",
+    "nick" : "Bp0qpl"
+  }, {
+    "people" : {
+      "id" : "68115",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-06-28T19:58:00",
+    "nick" : "GeQcN"
+  }, {
+    "people" : {
+      "id" : "87358",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-10-30T06:07:00",
+    "nick" : "DfLL9Zu"
+  }, {
+    "people" : {
+      "id" : "15096",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-02-16T00:41:00",
+    "nick" : "MFZ1f7"
+  }, {
+    "people" : {
+      "id" : "88704",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-01-10T11:32:00",
+    "nick" : "Rmt"
+  }, {
+    "people" : {
+      "id" : "27353",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-10-24T04:59:00",
+    "nick" : "ZxvY8Fl"
+  }, {
+    "people" : {
+      "id" : "30299",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-01-06T09:16:00",
+    "nick" : "Q3s4tqy"
+  }, {
+    "people" : {
+      "id" : "26067",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-06-02T03:04:00",
+    "nick" : "NX8G"
+  }, {
+    "people" : {
+      "id" : "63766",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-08-01T03:02:00",
+    "nick" : "RxjQloH"
+  }, {
+    "people" : {
+      "id" : "17505",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-07-24T01:46:00",
+    "nick" : "HJk39"
+  }, {
+    "people" : {
+      "id" : "49033",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-12-23T14:57:00",
+    "nick" : "YWU9"
+  }, {
+    "people" : {
+      "id" : "82680",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-12-01T02:28:00",
+    "nick" : "ZNgbhhk"
+  }, {
+    "people" : {
+      "id" : "12700",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-02-16T20:40:00",
+    "nick" : "ZKUAS"
+  }, {
+    "people" : {
+      "id" : "75618",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-02-25T04:02:00",
+    "nick" : "CRd0gFL"
+  }, {
+    "people" : {
+      "id" : "11874",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-05-22T00:23:00",
+    "nick" : "Nl3PJ"
+  }, {
+    "people" : {
+      "id" : "37067",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-01-13T19:07:00",
+    "nick" : "CVqjItU"
+  }, {
+    "people" : {
+      "id" : "35555",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-05-05T21:36:00",
+    "nick" : "PMkf"
+  }, {
+    "people" : {
+      "id" : "10508",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-09-13T05:38:00",
+    "nick" : "9Rrl"
+  }, {
+    "people" : {
+      "id" : "78249",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-03-23T04:10:00",
+    "nick" : "Ewjldd"
+  }, {
+    "people" : {
+      "id" : "44944",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-04-14T09:43:00",
+    "nick" : "VpU"
+  }, {
+    "people" : {
+      "id" : "90477",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-08-02T18:46:00",
+    "nick" : "N9UHCHF"
+  }, {
+    "people" : {
+      "id" : "60124",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-10-01T19:49:00",
+    "nick" : "5ogSv"
+  }, {
+    "people" : {
+      "id" : "66364",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-11-14T06:28:00",
+    "nick" : "2Py4Q"
+  }, {
+    "people" : {
+      "id" : "43393",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-08-09T07:06:00",
+    "nick" : "ASd8"
+  }, {
+    "people" : {
+      "id" : "95061",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-02-25T09:45:00",
+    "nick" : "MiV"
+  }, {
+    "people" : {
+      "id" : "88568",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-06-22T21:05:00",
+    "nick" : "4dcVLXu"
+  }, {
+    "people" : {
+      "id" : "75534",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-05-20T06:49:00",
+    "nick" : "XUJL9v"
+  }, {
+    "people" : {
+      "id" : "43657",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-04-24T03:21:00",
+    "nick" : "RPx1G3"
+  }, {
+    "people" : {
+      "id" : "35685",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-04-17T18:33:00",
+    "nick" : "IMbpTBb"
+  }, {
+    "people" : {
+      "id" : "26015",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-12-31T23:39:00",
+    "nick" : "UVr"
+  }, {
+    "people" : {
+      "id" : "26413",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-06-27T15:37:00",
+    "nick" : "8TTC"
+  }, {
+    "people" : {
+      "id" : "29515",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-06-20T12:31:00",
+    "nick" : "UVPCe"
+  }, {
+    "people" : {
+      "id" : "40955",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-10-22T16:11:00",
+    "nick" : "RyXw"
+  }, {
+    "people" : {
+      "id" : "38093",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-03-28T16:33:00",
+    "nick" : "QQM"
+  }, {
+    "people" : {
+      "id" : "79848",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-11-28T19:05:00",
+    "nick" : "OBp"
+  }, {
+    "people" : {
+      "id" : "10550",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-03-14T19:30:00",
+    "nick" : "ZIAzVul"
+  }, {
+    "people" : {
+      "id" : "29777",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-04-29T13:29:00",
+    "nick" : "2DznDY"
+  }, {
+    "people" : {
+      "id" : "91339",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-08-01T01:51:00",
+    "nick" : "Alu"
+  }, {
+    "people" : {
+      "id" : "82290",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-01-24T19:17:00",
+    "nick" : "KTND"
+  }, {
+    "people" : {
+      "id" : "28277",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-06-21T23:26:00",
+    "nick" : "RDp"
+  }, {
+    "people" : {
+      "id" : "72149",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-08-07T07:18:00",
+    "nick" : "FBxJ"
+  }, {
+    "people" : {
+      "id" : "79000",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-01-01T06:22:00",
+    "nick" : "UHs1"
+  }, {
+    "people" : {
+      "id" : "40531",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2024-10-03T21:50:00",
+    "nick" : "F5d"
+  }, {
+    "people" : {
+      "id" : "65475",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-09-28T07:10:00",
+    "nick" : "KkLMsVE"
+  }, {
+    "people" : {
+      "id" : "96112",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2023-01-28T17:27:00",
+    "nick" : "Jm1LA"
+  }, {
+    "people" : {
+      "id" : "37011",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-07-14T02:38:00",
+    "nick" : "5qDr"
+  }, {
+    "people" : {
+      "id" : "36638",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-04-17T04:28:00",
+    "nick" : "Ws09"
+  }, {
+    "people" : {
+      "id" : "87279",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-09-05T01:05:00",
+    "nick" : "BfZUu5"
+  }, {
+    "people" : {
+      "id" : "30796",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-06-16T15:41:00",
+    "nick" : "Mkj"
+  }, {
+    "people" : {
+      "id" : "57097",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2022-06-07T12:33:00",
+    "nick" : "Ilcpg"
+  }, {
+    "people" : {
+      "id" : "51073",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-03-04T07:24:00",
+    "nick" : "8TxN2e"
+  }, {
+    "people" : {
+      "id" : "63876",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-08-25T12:58:00",
+    "nick" : "9RES"
+  }, {
+    "people" : {
+      "id" : "46978",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2021-06-28T12:33:00",
+    "nick" : "0Gz"
+  }, {
+    "people" : {
+      "id" : "91818",
+      "namePunkt" : "Texas"
+    },
+    "date" : "2020-10-28T14:34:00",
+    "nick" : "W58nIq"
+  } ],
+  "date" : "2018-04-01T02:25:00",
+  "proectID" : "25912"
+}, {
+  "namePunkt" : "Memphis",
+  "nameTerritory" : "Avenue D",
+  "coordinates" : "12°30'23.47\"N 38°21'33.15\"E",
+  "descripton" : "Seed the tram tracks with lawn. The tram rails themselves are not the most attractive sight. It will be much better if they are sowed with lawn. This will not only improve the aesthetics of the street, but will also make the tram quieter.",
+  "golosa" : [ {
+    "people" : {
+      "id" : "84790",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-11-27T08:31:00",
+    "nick" : "2gD"
+  }, {
+    "people" : {
+      "id" : "26063",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-10-08T01:20:00",
+    "nick" : "LJeWE"
+  }, {
+    "people" : {
+      "id" : "53998",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-10-05T05:38:00",
+    "nick" : "JKuYX"
+  }, {
+    "people" : {
+      "id" : "39135",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-08-25T07:44:00",
+    "nick" : "YUy"
+  }, {
+    "people" : {
+      "id" : "31701",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-09-01T03:52:00",
+    "nick" : "RNCVug"
+  }, {
+    "people" : {
+      "id" : "49234",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-11-15T09:46:00",
+    "nick" : "TaHAN"
+  }, {
+    "people" : {
+      "id" : "93118",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-07-01T20:17:00",
+    "nick" : "WDg8A"
+  }, {
+    "people" : {
+      "id" : "63089",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-02-15T05:02:00",
+    "nick" : "YZoHSa6"
+  }, {
+    "people" : {
+      "id" : "78780",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-05-13T09:12:00",
+    "nick" : "BjaIUJh"
+  }, {
+    "people" : {
+      "id" : "11756",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-03-09T13:35:00",
+    "nick" : "1pbdnW"
+  }, {
+    "people" : {
+      "id" : "30639",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-07-02T04:47:00",
+    "nick" : "R2Z1eOe"
+  }, {
+    "people" : {
+      "id" : "94652",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-01-16T14:54:00",
+    "nick" : "Lkj0"
+  }, {
+    "people" : {
+      "id" : "39639",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-12-12T01:40:00",
+    "nick" : "5xG"
+  }, {
+    "people" : {
+      "id" : "92523",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-07-03T23:21:00",
+    "nick" : "EjLNNo"
+  }, {
+    "people" : {
+      "id" : "48253",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-05-09T08:48:00",
+    "nick" : "Po1dAsI"
+  }, {
+    "people" : {
+      "id" : "13636",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-12-05T00:51:00",
+    "nick" : "PB9GSp"
+  }, {
+    "people" : {
+      "id" : "23604",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-02-09T04:48:00",
+    "nick" : "9Gv"
+  }, {
+    "people" : {
+      "id" : "71498",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-02-28T00:22:00",
+    "nick" : "N3GcE"
+  }, {
+    "people" : {
+      "id" : "96216",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-05-04T23:19:00",
+    "nick" : "Tb6PCs"
+  }, {
+    "people" : {
+      "id" : "79593",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-11-20T07:09:00",
+    "nick" : "Ma1"
+  }, {
+    "people" : {
+      "id" : "99811",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-07-29T17:23:00",
+    "nick" : "IQW"
+  }, {
+    "people" : {
+      "id" : "96580",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-03-23T20:26:00",
+    "nick" : "LYqVQ"
+  }, {
+    "people" : {
+      "id" : "94357",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-09-03T00:58:00",
+    "nick" : "2crPqn"
+  }, {
+    "people" : {
+      "id" : "98926",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-11-11T20:08:00",
+    "nick" : "Pv4d"
+  }, {
+    "people" : {
+      "id" : "87876",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-05-07T18:29:00",
+    "nick" : "X8yw2wI"
+  }, {
+    "people" : {
+      "id" : "31241",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-02-17T22:28:00",
+    "nick" : "NGlXUZ"
+  }, {
+    "people" : {
+      "id" : "43689",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-05-27T23:03:00",
+    "nick" : "T9F0s1g"
+  }, {
+    "people" : {
+      "id" : "58806",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-11-27T18:30:00",
+    "nick" : "X09"
+  }, {
+    "people" : {
+      "id" : "99193",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-07-13T10:04:00",
+    "nick" : "EQx"
+  }, {
+    "people" : {
+      "id" : "87293",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-09-17T15:15:00",
+    "nick" : "Z2gz"
+  }, {
+    "people" : {
+      "id" : "70574",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-08-03T04:20:00",
+    "nick" : "AUcxBgS"
+  }, {
+    "people" : {
+      "id" : "72885",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-11-02T22:08:00",
+    "nick" : "Q8OWkuW"
+  }, {
+    "people" : {
+      "id" : "75860",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-04-24T09:25:00",
+    "nick" : "NizGhw6"
+  }, {
+    "people" : {
+      "id" : "58451",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-12-19T05:45:00",
+    "nick" : "Xklf"
+  }, {
+    "people" : {
+      "id" : "92227",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-12-22T15:03:00",
+    "nick" : "Gqv"
+  }, {
+    "people" : {
+      "id" : "16713",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-02-25T08:47:00",
+    "nick" : "JY57GZ"
+  }, {
+    "people" : {
+      "id" : "99856",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-03-02T12:14:00",
+    "nick" : "9Cbl"
+  }, {
+    "people" : {
+      "id" : "75240",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-02-24T00:32:00",
+    "nick" : "ZaiZNi"
+  }, {
+    "people" : {
+      "id" : "84210",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-04-20T15:03:00",
+    "nick" : "SX7B"
+  }, {
+    "people" : {
+      "id" : "72611",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-02-13T12:53:00",
+    "nick" : "G8Nq"
+  }, {
+    "people" : {
+      "id" : "85958",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-03-24T14:42:00",
+    "nick" : "Dnh9"
+  }, {
+    "people" : {
+      "id" : "77717",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-11-06T10:10:00",
+    "nick" : "CRRX8"
+  }, {
+    "people" : {
+      "id" : "90472",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-06-15T02:30:00",
+    "nick" : "AbH1Rh"
+  }, {
+    "people" : {
+      "id" : "57398",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-08-07T15:03:00",
+    "nick" : "NrHLmRs"
+  }, {
+    "people" : {
+      "id" : "67226",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-04-17T07:20:00",
+    "nick" : "ExF7"
+  }, {
+    "people" : {
+      "id" : "58497",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-07-06T23:20:00",
+    "nick" : "YWo"
+  }, {
+    "people" : {
+      "id" : "25194",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-03-14T06:42:00",
+    "nick" : "NBLwRp"
+  }, {
+    "people" : {
+      "id" : "51420",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-04-24T15:41:00",
+    "nick" : "00S9"
+  }, {
+    "people" : {
+      "id" : "95197",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-01-01T05:06:00",
+    "nick" : "Onxk"
+  }, {
+    "people" : {
+      "id" : "90824",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-02-16T20:23:00",
+    "nick" : "HlX"
+  }, {
+    "people" : {
+      "id" : "74871",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-07-10T13:04:00",
+    "nick" : "4KfL"
+  }, {
+    "people" : {
+      "id" : "15422",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-12-19T19:20:00",
+    "nick" : "JOHS"
+  }, {
+    "people" : {
+      "id" : "73742",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-08-17T01:58:00",
+    "nick" : "Tayo"
+  }, {
+    "people" : {
+      "id" : "54909",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-06-26T04:04:00",
+    "nick" : "ROH2"
+  }, {
+    "people" : {
+      "id" : "55532",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-07-17T08:25:00",
+    "nick" : "CiPt"
+  }, {
+    "people" : {
+      "id" : "54840",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-03-21T08:09:00",
+    "nick" : "VvsCkG"
+  }, {
+    "people" : {
+      "id" : "50943",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-10-23T17:21:00",
+    "nick" : "XXUe"
+  }, {
+    "people" : {
+      "id" : "34786",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-08-10T19:44:00",
+    "nick" : "JTc7ov3"
+  }, {
+    "people" : {
+      "id" : "90165",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-06-21T14:47:00",
+    "nick" : "9klGPUI"
+  }, {
+    "people" : {
+      "id" : "92288",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-11-10T04:12:00",
+    "nick" : "Dpv"
+  }, {
+    "people" : {
+      "id" : "17063",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-01-21T20:27:00",
+    "nick" : "EynE"
+  }, {
+    "people" : {
+      "id" : "11655",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-03-02T23:28:00",
+    "nick" : "K76q"
+  }, {
+    "people" : {
+      "id" : "15401",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-01-30T14:58:00",
+    "nick" : "QPUP1p"
+  }, {
+    "people" : {
+      "id" : "56235",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-01-24T16:11:00",
+    "nick" : "XMZpK"
+  }, {
+    "people" : {
+      "id" : "16590",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-10-09T17:48:00",
+    "nick" : "JIAWTSe"
+  }, {
+    "people" : {
+      "id" : "14794",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-12-16T15:42:00",
+    "nick" : "ZQK154"
+  }, {
+    "people" : {
+      "id" : "48893",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-12-30T09:52:00",
+    "nick" : "I2mneVc"
+  }, {
+    "people" : {
+      "id" : "11376",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-11-22T19:08:00",
+    "nick" : "IPEH3Q"
+  }, {
+    "people" : {
+      "id" : "94852",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-11-10T02:50:00",
+    "nick" : "AOoo8"
+  }, {
+    "people" : {
+      "id" : "15527",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-09-29T18:51:00",
+    "nick" : "VEK"
+  }, {
+    "people" : {
+      "id" : "90690",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-02-02T11:21:00",
+    "nick" : "CrUMVaA"
+  }, {
+    "people" : {
+      "id" : "40813",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-12-04T02:54:00",
+    "nick" : "Ro7"
+  }, {
+    "people" : {
+      "id" : "20338",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-09-20T05:14:00",
+    "nick" : "NH3o"
+  }, {
+    "people" : {
+      "id" : "64995",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-01-20T09:14:00",
+    "nick" : "8Pd2"
+  }, {
+    "people" : {
+      "id" : "31051",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-12-11T14:20:00",
+    "nick" : "FoRvQJe"
+  }, {
+    "people" : {
+      "id" : "87766",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-10-20T23:41:00",
+    "nick" : "AIU"
+  }, {
+    "people" : {
+      "id" : "85638",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-08-28T09:59:00",
+    "nick" : "NgV53G"
+  }, {
+    "people" : {
+      "id" : "56738",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-11-27T19:38:00",
+    "nick" : "9YRYYqw"
+  }, {
+    "people" : {
+      "id" : "50454",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-06-05T22:32:00",
+    "nick" : "JsJ"
+  }, {
+    "people" : {
+      "id" : "32071",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-10-11T21:52:00",
+    "nick" : "TRCz"
+  }, {
+    "people" : {
+      "id" : "38174",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-04-26T05:47:00",
+    "nick" : "T9jzLx"
+  }, {
+    "people" : {
+      "id" : "14672",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-05-23T05:15:00",
+    "nick" : "KOW0"
+  }, {
+    "people" : {
+      "id" : "68294",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-07-21T09:24:00",
+    "nick" : "481D5"
+  }, {
+    "people" : {
+      "id" : "18052",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-04-03T21:23:00",
+    "nick" : "Do5"
+  }, {
+    "people" : {
+      "id" : "76271",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-01-18T17:41:00",
+    "nick" : "0eJ"
+  }, {
+    "people" : {
+      "id" : "26852",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-01-30T00:27:00",
+    "nick" : "COlwaMJ"
+  }, {
+    "people" : {
+      "id" : "14933",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-10-07T04:11:00",
+    "nick" : "MZX"
+  }, {
+    "people" : {
+      "id" : "15908",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-10-16T18:06:00",
+    "nick" : "UuQ"
+  }, {
+    "people" : {
+      "id" : "78208",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-10-18T22:37:00",
+    "nick" : "SXCcTiC"
+  }, {
+    "people" : {
+      "id" : "21870",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-11-22T10:18:00",
+    "nick" : "WNyIXxa"
+  }, {
+    "people" : {
+      "id" : "91178",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-02-14T09:17:00",
+    "nick" : "Dkjh"
+  }, {
+    "people" : {
+      "id" : "85322",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2023-01-04T01:21:00",
+    "nick" : "HNl"
+  }, {
+    "people" : {
+      "id" : "18459",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-07-09T03:30:00",
+    "nick" : "DQO"
+  }, {
+    "people" : {
+      "id" : "76869",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2022-01-11T21:08:00",
+    "nick" : "EWJa"
+  }, {
+    "people" : {
+      "id" : "56415",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-02-03T13:51:00",
+    "nick" : "DQjWDO"
+  }, {
+    "people" : {
+      "id" : "92240",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-04-10T04:32:00",
+    "nick" : "UpmF"
+  }, {
+    "people" : {
+      "id" : "65137",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2024-10-05T13:41:00",
+    "nick" : "T5MY3"
+  }, {
+    "people" : {
+      "id" : "90798",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-12-02T13:58:00",
+    "nick" : "DXKg3"
+  }, {
+    "people" : {
+      "id" : "27259",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2020-10-22T11:30:00",
+    "nick" : "O9NaBGI"
+  }, {
+    "people" : {
+      "id" : "47284",
+      "namePunkt" : "Memphis"
+    },
+    "date" : "2021-07-06T16:47:00",
+    "nick" : "PNlX"
+  } ],
+  "date" : "2018-07-14T16:34:00",
+  "proectID" : "71233"
+} ]

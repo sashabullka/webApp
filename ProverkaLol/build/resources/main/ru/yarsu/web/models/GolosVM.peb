@@ -1,0 +1,35 @@
+{# @pebvariable name="model" type="ru.yarsu.web.models.PebbleVM" #}
+    {% extends "./partials/Layout.peb" %}
+{% block content %}
+
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    {% for proect in model.proects %}
+        <a class="navbar-brand" href="/{{ proect.proectID }}/n1">{{ proect.namePunkt }}</a>
+    {% endfor %}
+  </div>
+</nav>
+
+
+    <h1>Подробная информация о заявке</h1>
+
+    <div class="card border-primary mb-3">
+      <div class="card-header text-bg-primary mb-3">
+        Информация
+      </div>
+      <div class="card-body text-primary">
+        <ul class="list-group">
+          <li class="list-group-item">Дата публикации проекта: {{ model.golos.getDate() | date("yyyy-MM-dd HH:mm") }}</li>
+          <li class="list-group-item">Название населённого пункта: {{ model.golos.getPeople().getNamePunkt() }}</li>
+          <li class="list-group-item">Идентификатор: {{ model.golos.getPeople().getId() }}</li>
+          <li class="list-group-item">Никнейм: {{ model.golos.getNick() }}</li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="d-flex justify-content-start"> <a href="/{{ model.proect.getProectID() }}/{{model.page}}/golos/{{ model.golos.getPeople().getId() }}/edit" class="btn btn-primary" tabindex="-1" role="button" >Изменить заявку</a>
+     <a href="/{{ model.proect.getProectID() }}/{{model.page}}/golos/{{ model.golos.getPeople().getId() }}/delete" class="btn btn-primary" tabindex="-1" role="button" >Удалить заявку</a> </div>
+
+
+    <div class="d-flex justify-content-center"> <a href="/{{ model.proect.getProectID() }}/n{{ model.page }}" class="btn btn-primary" tabindex="-1" role="button" >Назад</a> </div>
+{%endblock%}

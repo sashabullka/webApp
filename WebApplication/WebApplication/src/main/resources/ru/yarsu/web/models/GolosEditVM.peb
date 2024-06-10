@@ -1,0 +1,19 @@
+    {% extends "./partials/Layout.peb" %}
+    {% block content %}
+
+<h1 class="text-center mb-4">Редактирование Заявки</h1>
+
+<form method="POST" class="row g-3 needs-validation" novalidate>
+  <div class="col-md-6 offset-md-3">
+    <div class="mb-3">
+      <label for="inputNickname" class="form-label">Никнейм</label>
+      <input name="newName" type="text" class="form-control" value="{{ model.golos.nick }}" id="inputNickname" required>
+      <div class="invalid-feedback">Пожалуйста, введите никнейм.</div>
+    </div>
+    <div class="text-center">
+      <button type="submit" class="btn btn-primary">Отправить</button>
+    </div>
+  </div>
+</form>
+
+{% endblock %}
