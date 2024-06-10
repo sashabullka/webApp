@@ -1,0 +1,26 @@
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+<div class="container mt-5">
+    <h1 class="mb-4">Редактирование Проекта</h1>
+    <form method="POST">
+        <div class="mb-3">
+            <label for="namePunkt" class="form-label">Название проекта</label>
+            <input name="namePunkt" type="text" class="form-control" value="{{ model.proect.namePunkt }}" id="namePunkt">
+        </div>
+        <div class="mb-3">
+            <label for="nameTerritory" class="form-label">Название улицы</label>
+            <input name="nameTerritory" type="text" class="form-control" value="{{ model.proect.nameTerritory }}" id="nameTerritory">
+        </div>
+        <div class="mb-3">
+            <label for="coordinates" class="form-label">Координаты</label>
+            <input name="coordinates" type="text" class="form-control" value="{{ model.proect.coordinates }}" id="coordinates">
+        </div>
+        <div class="mb-3">
+            <label for="descripton" class="form-label">Описание</label>
+            <input name="descripton" type="text" class="form-control" value="{{ model.proect.descripton }}" id="descripton">
+        </div>
+        <button type="submit" class="btn btn-primary">Отправить</button>
+    </form>
+</div>
+{% endblock %}

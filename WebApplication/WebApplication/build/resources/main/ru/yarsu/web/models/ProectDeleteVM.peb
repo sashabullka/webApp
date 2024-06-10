@@ -1,0 +1,22 @@
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+<div class="container mt-5">
+    <form method="POST" class="row g-3 needs-validation" novalidate>
+        <div class="col-12 d-flex justify-content-center mb-4">
+            <div class="form-check">
+                <input name="checkboxic" class="form-check-input" type="checkbox" id="invalidCheck" required>
+                <label class="form-check-label" for="invalidCheck">
+                    <h3>Хотите ли вы действительно удалить проект с названием: {{ model.proect.namePunkt }}</h3>
+                </label>
+                <div class="invalid-feedback">
+                    Вы должны принять перед отправкой.
+                </div>
+            </div>
+        </div>
+        <div class="col-12 d-flex justify-content-center">
+            <button class="btn btn-danger" type="submit">Удалить проект</button>
+        </div>
+    </form>
+</div>
+{% endblock %}

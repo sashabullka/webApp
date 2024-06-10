@@ -1,0 +1,99 @@
+{# @pebvariable name="model" type="ru.yarsu.web.models.PebbleVM" #}
+    {% extends "./partials/Layout.peb" %}
+{% block content %}
+<div class="container mt-5">
+    <div class="card border-primary mb-3">
+        <div class="card-header bg-primary text-white text-center">
+            <h2>Информация о проекте</h2>
+        </div>
+        <div class="card-body">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <strong>Дата публикации проекта:</strong> {{ model.proect.date | date("yyyy-MM-dd HH:mm") }}
+                </li>
+                <li class="list-group-item">
+                    <strong>Название населённого пункта:</strong> {{ model.proect.namePunkt }}
+                </li>
+                <li class="list-group-item">
+                    <strong>Название улицы:</strong> {{ model.proect.nameTerritory }}
+                </li>
+                <li class="list-group-item">
+                    <strong>Координаты:</strong> {{ model.proect.coordinates }}
+                </li>
+                <li class="list-group-item">
+                    <strong>Заявку создал:</strong> {{ model.proect.username }}
+                </li>
+                <li class="list-group-item">
+                    <strong>Описание проекта:</strong> {{ model.proect.descripton }}
+                </li>
+                <li class="list-group-item d-flex justify-content-between">
+                    {% if (permissions.canEditProect and user.nameLog == model.proect.username) or user.role == "admin" %}
+                    <a class="btn btn-outline-primary" href="/{{ model.proect.proectID }}/{{ model.page.numberPage }}/edit">Изменить проект</a>
+                    {%endif%}
+                    {% if (permissions.canDeleteProect and user.nameLog == model.proect.username) or user.role == "admin" %}
+                    <a class="btn btn-outline-danger" href="/{{ model.proect.proectID }}/{{ model.page.numberPage }}/delete">Удалить проект</a>
+                    {%endif%}
+                    {% if permissions.canAddGolos %}
+                    <a class="btn btn-outline-success" href="/{{ model.proect.proectID }}/{{ model.page.numberPage }}/add">Проголосовать за проект</a>
+                    {%endif%}
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card border-secondary mb-3">
+        <div class="card-header text-center">
+            <h3>Список людей, поддержавших проект</h3>
+            {% if user.role != null and permissions.canWatchWhatHeGolosFor %}
+                <a class="btn btn-outline-info btn-sm float-end" href="/{{ model.proect.proectID }}/{{ model.page.numberPage }}/watch">Посмотреть мои голоса</a>
+            {% endif %}
+        </div>
+        <div class="card-body">
+            {% if not model.empty %}
+                <ul class="list-group list-group-flush">
+                    {% for i in model.listVote %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <div>
+                                <strong>Населённый пункт:</strong> {{ i.people.namePunkt }}<br>
+                                <strong>Id пользователя:</strong> {{ i.people.id }}<br>
+                                <strong>Дата выражения поддержки:</strong> {{ i.date | date("yyyy-MM-dd HH:mm") }}
+                            </div>
+                            <a class="btn btn-outline-info btn-sm" href="/{{ model.proect.proectID }}/{{ model.page.numberPage }}/golos/{{ i.people.id }}">Подробнее</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <div class="alert alert-warning text-center" role="alert">
+                    На данной странице нет подходящих заявок
+                </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <form method="GET" class="mb-4">
+    <div class="row">
+        <div class="col-md-6">
+            <label for="minYear" class="form-label">Введите год начала фильтрации</label>
+            <input name="min" type="number" class="form-control" value="{{ model.min }}" id="minYear" maxlength="4" min="0" max="9999">
+        </div>
+        <div class="col-md-6">
+            <label for="maxYear" class="form-label">Введите год конца фильтрации</label>
+            <input name="max" type="number" class="form-control" value="{{ model.max }}" id="maxYear" maxlength="4" min="0" max="9999">
+        </div>
+    </div>
+    <div class="d-flex justify-content-center mt-3">
+        <button type="submit" class="btn btn-info">Отфильтровать</button>
+    </div>
+</form>
+
+
+    <div class="d-flex justify-content-between">
+        {% if model.page.previousPage() %}
+            <a class="btn btn-primary" href="{{ model.page.previousLink() }}" role="button">Предыдущая</a>
+        {% endif %}
+    {% if model.page.nextPage() %}
+            <a class="btn btn-primary" href="{{ model.page.nextLink() }}" role="button">Следующая</a>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,28 @@
+{# @pebvariable name="model" type="ru.yarsu.web.models.UsersVM" #}
+    {% extends "./partials/Layout.peb" %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Список Моих Голосов</h1>
+    {% if model.list.isEmpty() %}
+        <p class="text-center">Вы еще не голосовали</p>
+    {% else %}
+        <ul class="list-group">
+            {% for user in model.list %}
+                <li class="list-group-item">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div>
+                            <p><strong>Населённый пункт:</strong> {{ user.people.namePunkt }}</p>
+                            <p><strong>Id пользователя:</strong> {{ user.people.id }}</p>
+                            <p><strong>Дата выражения поддержки:</strong> {{ user.date | date("yyyy-MM-dd HH:mm") }}</p>
+                        </div>
+                        <div>
+                            <a class="btn btn-outline-info btn-sm" href="/{{ model.proect.proectID }}/{{ model.page }}/golos/{{ user.people.id }}">Подробнее</a>
+                        </div>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</div>
+{% endblock %}

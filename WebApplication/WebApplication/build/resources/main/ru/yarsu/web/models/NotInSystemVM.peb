@@ -1,0 +1,10 @@
+    {% extends "./partials/Layout.peb" %}
+
+    {% block content %}
+<div class="container mt-5">
+    <div class="alert alert-danger text-center" role="alert">
+        <h1 class="display-4">Ошибка!</h1>
+        <p class="lead">{{ model.error }}</p>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,35 @@
+{# @pebvariable name="model" type="ru.yarsu.web.models.UsersVM" #}
+    {% extends "./partials/Layout.peb" %}
+{% block content %}
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Список пользователей</h2>
+        <a href="/users/add" class="btn btn-primary">Добавить пользователя</a>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Логин</th>
+                <th>Дата регистрации</th>
+                <th>Роль</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for user in model.listUsers %}
+                <tr>
+                    <td>{{ user.nameLog }}</td>
+                    <td>{{ user.date | date("yyyy-MM-dd HH:mm") }}</td>
+                    <td>{{ user.role }}</td>
+                    {% if user.nameLog != "admin" %}
+                    <td><a href="/users/{{ user.nameLog }}/delete" class="btn btn-primary">Удалить пользователя</a></td>
+                    <td><a href="/users/{{ user.nameLog }}/edit" class="btn btn-primary">Редактирование пользователя</a></td>
+                    {%else%}
+                    <td>Удаление нецелесообразно</td>
+                    <td>Редактирование нецелесообразно</td>
+                    {%endif%}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}
