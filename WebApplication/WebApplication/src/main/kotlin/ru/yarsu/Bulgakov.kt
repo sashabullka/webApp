@@ -51,7 +51,7 @@ fun main() {
     if (!File("Data.json").exists()) {
         data.generation()
     }
-
+    println("1")
     val listUsers: MutableList<User> = objectMapper.readValue(File("Users.json").readText())
     val listProects: MutableList<Proect> = objectMapper.readValue(File("Data.json").readText())
     val mapSalt: MutableMap<String, String> = objectMapper.readValue(File("Salt.json").readText())
